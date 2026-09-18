@@ -20,6 +20,8 @@ function guiaPage(g) {
     title: g.title,
     dek: g.dek,
     updated: g.updated,
+    img: g.img,
+    imgAlt: g.title,
   })}
   <section class="section">
     <div class="wrap two-col">

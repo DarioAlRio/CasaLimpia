@@ -11,6 +11,8 @@ function articuloPage(a) {
     title: a.title,
     dek: a.dek,
     updated: a.updated,
+    img: a.img,
+    imgAlt: a.title,
   })}
   <section class="section">
     <div class="wrap">

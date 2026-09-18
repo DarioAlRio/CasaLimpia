@@ -24,6 +24,8 @@ function comparativaPage(g) {
     eyebrow: `Comparativa · ${g.title}`,
     title: `${budget.title} vs. ${premium.title}`,
     dek: `¿Compensa pagar más? Comparamos la opción más económica y la de gama alta de nuestra guía de ${g.title.toLowerCase()}.`,
+    img: g.img,
+    imgAlt: g.title,
   })}
   <section class="section">
     <div class="wrap two-col">
