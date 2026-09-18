@@ -12,7 +12,6 @@ const SITE = {
   domain: "https://casalimpia.vercel.app",
   locale: "es_ES",
   lang: "es",
-  email: "hola@casalimpia.es", // PENDIENTE: crear buzón real y verificarlo, ver PENDIENTE.md
   // PLACEHOLDER: Store ID provisional. El usuario todavía NO ha creado el
   // Store ID real en el panel de Amazon Afiliados para este sitio.
   // SUSTITUIR por el tag real en cuanto se cree, ver PENDIENTE.md.
