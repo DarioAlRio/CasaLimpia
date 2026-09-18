@@ -1,0 +1,11 @@
+{
+  "name": "amazon-afiliados-casalimpia",
+  "private": true,
+  "version": "0.1.0",
+  "description": "CasaLimpia: web de contenido para el alta en el Programa de Afiliados de Amazon (nicho: robots aspiradores y productos de limpieza del hogar).",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "node _build/serve.js",
+    "start": "node build.js && node _build/serve.js"
+  }
+}
