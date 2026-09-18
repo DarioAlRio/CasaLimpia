@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://casalimpia.vercel.app/sitemap.xml
+Sitemap: https://casa-limpia-kappa.vercel.app/sitemap.xml
