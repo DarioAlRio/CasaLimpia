@@ -8,8 +8,7 @@ const SITE = {
   claim: "Guías y comparativas para elegir robots aspiradores y productos de limpieza sin perder tiempo ni dinero",
   description:
     "Guías de compra y comparativas independientes de robots aspiradores, mopas eléctricas, limpiadores a vapor y aspiradores verticales para mantener tu casa limpia sin gastar de más.",
-  // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://casalimpia.vercel.app",
+  domain: "https://casa-limpia-kappa.vercel.app",
   locale: "es_ES",
   lang: "es",
   // Store ID real, creado en el panel de afiliados.
