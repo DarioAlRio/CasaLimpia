@@ -778,10 +778,10 @@ const ARTICLES = [
     img: "/assets/img/blog/cuanto-dura-realmente-un-robot-aspirador.jpg",
     updated: "2026-09-16",
     body: [
-      "Un robot aspirador bien mantenido suele durar entre 4 y 7 años antes de que algún componente clave (normalmente la batería o el motor de succión) empiece a dar problemas serios, aunque la vida útil real depende mucho de la frecuencia de uso y del mantenimiento que le hagas.",
+      "Un <a href=\"/guias/robots-aspiradores.html\">robot aspirador bien mantenido</a> suele durar entre 4 y 7 años antes de que algún componente clave (normalmente la batería o el motor de succión) empiece a dar problemas serios, aunque la vida útil real depende mucho de la frecuencia de uso y del mantenimiento que le hagas.",
       "La batería es casi siempre el primer eslabón débil: las baterías de litio actuales pierden capacidad de forma gradual, y es habitual notar una autonomía notablemente menor a partir de los 2-3 años de uso diario. En muchos modelos la batería es reemplazable por separado, lo que alarga la vida del robot completo sin tener que comprar uno nuevo.",
-      "El cepillo principal y los cepillos laterales se desgastan mucho antes que el motor: si no se limpian el pelo enredado con regularidad, fuerzan el motor y pueden acabar dañándolo prematuramente. Un mantenimiento sencillo (limpiar cepillos cada 1-2 semanas, cambiar filtros cada 2-3 meses) es la forma más barata de alargar la vida útil real del aparato.",
-      "Los sensores de navegación (láser, de caída, de obstáculos) rara vez fallan por desgaste natural, pero sí pueden dar problemas si se acumula polvo o suciedad sobre ellos: limpiarlos con un paño suave de vez en cuando evita errores de navegación que a veces se confunden con una avería grave.",
+      "El cepillo principal y los cepillos laterales se desgastan mucho antes que el motor: si no se limpian el pelo enredado con regularidad, fuerzan el motor y pueden acabar dañándolo prematuramente. Un mantenimiento sencillo (limpiar cepillos cada 1-2 semanas, <a href=\"/guias/recambios-y-filtros-para-robots-aspiradores.html\">cambiar filtros cada 2-3 meses</a>) es la forma más barata de alargar la vida útil real del aparato.",
+      "Los <a href=\"/guias/robots-aspiradores.html\">sensores de navegación</a> (láser, de caída, de obstáculos) rara vez fallan por desgaste natural, pero sí pueden dar problemas si se acumula polvo o suciedad sobre ellos: limpiarlos con un paño suave de vez en cuando evita errores de navegación que a veces se confunden con una avería grave.",
       "Antes de dar por perdido un robot que ya no succiona bien, merece la pena revisar en orden: filtro saturado, cepillo enredado, sensores sucios y, por último, la batería. En la mayoría de los casos el problema es una de las tres primeras cosas, mucho más barata de solucionar que sustituir el robot entero.",
     ],
   },
@@ -793,11 +793,11 @@ const ARTICLES = [
     updated: "2026-09-13",
     body: [
       "No todos los suelos se limpian igual, y usar el mismo método o producto en toda la casa es uno de los errores más habituales y más fáciles de evitar sin gastar más dinero.",
-      "1. Usar exceso de agua en parqué o laminado. La madera y muchos laminados se hinchan o se despegan con humedad acumulada; una mopa bien escurrida o casi seca es mucho más segura que fregar como en una baldosa.",
-      "2. Usar limpiadores ácidos en mármol o piedra natural. El vinagre y otros productos ácidos, muy útiles en baldosa para quitar cal, pueden dejar marcas mate permanentes en mármol y piedra natural pulida: para esas superficies conviene un limpiador de pH neutro específico.",
-      "3. Pasar el robot aspirador con succión al máximo en alfombras delicadas todos los días. Una succión muy alta y constante puede desgastar antes las fibras de alfombras finas; muchos robots permiten bajar la potencia específicamente para alfombras delicadas sin perder eficacia en suelo duro.",
+      "1. Usar exceso de agua en parqué o laminado. La madera y muchos laminados se hinchan o se despegan con humedad acumulada; una <a href=\"/guias/fregonas-y-cubos-con-escurridor.html\">mopa bien escurrida</a> o casi seca es mucho más segura que fregar como en una baldosa.",
+      "2. Usar limpiadores ácidos en mármol o piedra natural. El vinagre y otros productos ácidos, muy útiles en baldosa para quitar cal, pueden dejar marcas mate permanentes en mármol y piedra natural pulida: para esas superficies conviene <a href=\"/guias/limpiadores-multiusos-y-desinfectantes.html\">un limpiador de pH neutro específico</a>.",
+      "3. Pasar el robot aspirador con succión al máximo en alfombras delicadas todos los días. Una succión muy alta y constante puede desgastar antes las fibras de alfombras finas; <a href=\"/guias/robots-aspiradores.html\">muchos robots permiten bajar la potencia</a> específicamente para alfombras delicadas sin perder eficacia en suelo duro.",
       "4. No dejar secar bien la baldosa del baño antes de pisarla. Además del riesgo de resbalón, la humedad estancada en juntas favorece la aparición de moho; ventilar y dejar secar antes de cerrar la puerta del baño evita este problema con más eficacia que solo fregar más fuerte.",
-      "5. Usar el mismo paño de microfibra para toda la casa sin lavarlo entre zonas. Pasar el mismo paño de la cocina al baño, o de un suelo muy sucio a uno menos sucio, redistribuye suciedad y bacterias en vez de eliminarlas: tener paños o mopas distintos por zona, o lavarlos entre usos, mejora mucho el resultado final.",
+      "5. Usar el mismo paño de microfibra para toda la casa sin lavarlo entre zonas. Pasar el mismo paño de la cocina al baño, o de un suelo muy sucio a uno menos sucio, redistribuye suciedad y bacterias en vez de eliminarlas: <a href=\"/guias/fregonas-y-cubos-con-escurridor.html\">tener paños o mopas distintos por zona</a>, o lavarlos entre usos, mejora mucho el resultado final.",
     ],
   },
   {
@@ -809,8 +809,8 @@ const ARTICLES = [
     body: [
       "El armario de la limpieza tiende a desordenarse porque se van añadiendo productos nuevos sin sacar los que ya no se usan, y porque los utensilios largos (escobas, fregonas, mopas) no siempre tienen un sitio claro donde apoyarse sin caerse.",
       "El primer paso, antes de comprar ningún organizador, es hacer una revisión rápida: productos caducados o duplicados fuera, y agrupar lo que queda por tipo de tarea (baño, cocina, suelos, ropa) en vez de por marca o tamaño de bote.",
-      "Los utensilios largos se benefician mucho de colgadores de pared con ganchos, en vez de dejarlos apoyados sueltos en una esquina: liberan espacio en el suelo del armario y evitan que se caigan encima de alguien al abrir la puerta.",
-      "Los productos líquidos (botellas y sprays) se organizan mejor en un cesto o bandeja con borde, para contener cualquier goteo, en vez de colocarlos sueltos directamente sobre la balda; si guardas productos químicos fuertes y hay niños en casa, un cierre de seguridad en el mueble es una inversión pequeña que evita accidentes serios.",
+      "Los utensilios largos se benefician mucho de <a href=\"/guias/organizadores-de-productos-de-limpieza.html\">colgadores de pared con ganchos</a>, en vez de dejarlos apoyados sueltos en una esquina: liberan espacio en el suelo del armario y evitan que se caigan encima de alguien al abrir la puerta.",
+      "Los productos líquidos (botellas y sprays) se organizan mejor en <a href=\"/guias/organizadores-de-productos-de-limpieza.html\">un cesto o bandeja con borde</a>, para contener cualquier goteo, en vez de colocarlos sueltos directamente sobre la balda; si guardas productos químicos fuertes y hay niños en casa, un cierre de seguridad en el mueble es una inversión pequeña que evita accidentes serios.",
       "Por último, dejar un hueco vacío deliberado (no llenar el armario al 100% de su capacidad) facilita mucho mantener el orden a medio plazo: un armario completamente lleno se desordena solo con normalidad, mientras que un poco de margen permite guardar y sacar cosas sin que todo se desmorone.",
     ],
   },
@@ -822,10 +822,10 @@ const ARTICLES = [
     updated: "2026-09-09",
     body: [
       "Intentar hacerlo todo a fondo cada semana es una de las razones más habituales por las que la limpieza acaba pareciendo interminable: no todas las tareas necesitan la misma frecuencia para mantener una casa en buen estado.",
-      "Las tareas de mantenimiento semanal (aspirar o pasar el robot por suelos abiertos, fregar cocina y baño, limpiar superficies de contacto frecuente como encimeras y mandos) son las que más se notan si se dejan de hacer, así que conviene mantenerlas fijas en el calendario, aunque sea de forma rápida.",
+      "Las tareas de mantenimiento semanal (aspirar o <a href=\"/guias/robots-aspiradores.html\">pasar el robot por suelos abiertos</a>, fregar cocina y baño, limpiar superficies de contacto frecuente como encimeras y mandos) son las que más se notan si se dejan de hacer, así que conviene mantenerlas fijas en el calendario, aunque sea de forma rápida.",
       "Las tareas de limpieza profunda (filtros de la campana extractora, cristales por dentro y fuera, colchones, cortinas, el interior de electrodomésticos) pueden espaciarse a mensual o incluso trimestral sin que se note un deterioro real, y concentrarlas en sesiones puntuales suele ser más eficiente que intentar hacer un poco de cada cosa cada semana.",
       "Repartir estas tareas profundas en una por fin de semana (en vez de intentar hacerlas todas de golpe una vez al mes) reduce mucho la sensación de agobio y hace más fácil mantener el ritmo a largo plazo.",
-      "Los utensilios que automatizan parte del mantenimiento semanal (robot aspirador, mopa eléctrica) liberan tiempo justamente para esas tareas profundas menos frecuentes, que son las que de verdad cuestan más esfuerzo manual y las que se posponen indefinidamente si no se planifican con antelación.",
+      "Los utensilios que automatizan parte del mantenimiento semanal (robot aspirador, <a href=\"/guias/mopas-electricas.html\">mopa eléctrica</a>) liberan tiempo justamente para esas tareas profundas menos frecuentes, que son las que de verdad cuestan más esfuerzo manual y las que se posponen indefinidamente si no se planifican con antelación.",
     ],
   },
   {
@@ -837,9 +837,9 @@ const ARTICLES = [
     body: [
       "El vinagre y el bicarbonato aparecen en casi cualquier lista de \"trucos de limpieza natural\", pero no funcionan igual de bien para todo: entender su química básica ayuda a saber cuándo merece la pena usarlos y cuándo es mejor un producto específico.",
       "El vinagre (ácido acético diluido) es eficaz contra la cal y los depósitos minerales de agua dura, y tiene cierto efecto desengrasante ligero; por eso funciona bien en grifería, cafeteras y cristales. No es apto, en cambio, para mármol, piedra natural pulida o encimeras de cuarzo con resina, porque el ácido puede dañar el acabado con el uso repetido.",
-      "El bicarbonato de sodio actúa como abrasivo suave y neutralizador de olores, útil para frotar manchas ligeras sin rayar superficies delicadas y para absorber olores en neveras o alfombras. No tiene apenas capacidad desinfectante real, así que no sustituye a un desinfectante certificado cuando el objetivo es reducir bacterias o virus.",
+      "El bicarbonato de sodio actúa como abrasivo suave y neutralizador de olores, útil para frotar manchas ligeras sin rayar superficies delicadas y para absorber olores en neveras o alfombras. No tiene apenas capacidad desinfectante real, así que no sustituye a <a href=\"/guias/limpiadores-multiusos-y-desinfectantes.html\">un desinfectante certificado</a> cuando el objetivo es reducir bacterias o virus.",
       "Mezclar vinagre y bicarbonato juntos (algo muy habitual en vídeos virales) neutraliza ambos productos entre sí en la reacción efervescente: el resultado es agua con sal, sin las propiedades de limpieza de ninguno de los dos por separado. Es más un efecto visual que una mezcla realmente más potente.",
-      "Como regla general: el vinagre para cal y grasa ligera en superficies resistentes, el bicarbonato para frotar suave y absorber olores, y un desinfectante certificado cuando el objetivo sea eliminar microorganismos de forma fiable, no solo limpiar suciedad visible.",
+      "Como regla general: el vinagre para cal y grasa ligera en superficies resistentes, el bicarbonato para frotar suave y absorber olores, y <a href=\"/guias/limpiadores-multiusos-y-desinfectantes.html\">un desinfectante certificado</a> cuando el objetivo sea eliminar microorganismos de forma fiable, no solo limpiar suciedad visible.",
     ],
   },
 ];
