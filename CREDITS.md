@@ -30,6 +30,16 @@ trazabilidad y buena práctica, no porque la licencia lo exija.
 | `como-organizar-el-armario-de-la-limpieza.jpg` | https://www.pexels.com/photo/housekeeping-materials-used-for-cleaning-7108400/ |
 | `limpieza-semanal-vs-limpieza-profunda-como-repartir-el-tiempo.jpg` | https://www.pexels.com/photo/a-person-cleaning-a-gas-stove-9462301/ |
 | `vinagre-bicarbonato-y-otros-remedios-caseros-que-funcionan-de-verdad.jpg` | https://www.pexels.com/photo/stack-of-cleaning-materials-in-close-up-photography-7814879/ |
+| `robot-aspirador-se-queda-atascado-que-hacer.jpg` | https://www.pexels.com/photo/round-robot-vacuum-844874/ |
+| `aspirador-vertical-cuanta-autonomia-necesitas.jpg` | https://www.pexels.com/photo/person-vacuuming-a-wooden-floor-9462148/ |
+| `superficies-donde-no-usar-limpiador-a-vapor.jpg` | https://www.pexels.com/photo/4176224/ |
+| `mantener-filtros-robot-aspirador-que-dure-mas.jpg` | https://www.pexels.com/photo/4107257/ |
+| `mopa-electrica-vs-fregona-tradicional-cuando-compensa-cada-una.jpg` | https://www.pexels.com/photo/a-person-cleaning-the-floor-with-a-mop-4440568/ |
+| `cuando-cambiar-mopas-y-panos-de-microfibra.jpg` | https://www.pexels.com/photo/person-holding-gray-and-black-towel-11370616/ |
+| `por-que-tu-robot-aspirador-ya-no-succiona-igual.jpg` | https://www.pexels.com/photo/photo-of-vacuum-cleaner-on-floor-3616746/ |
+| `limpieza-antes-o-despues-de-una-mudanza.jpg` | https://www.pexels.com/photo/empty-apartment-with-packed-carton-boxes-before-moving-4246119/ |
+| `guantes-de-limpieza-cuando-son-realmente-necesarios.jpg` | https://www.pexels.com/photo/close-up-of-woman-putting-on-rubber-gloves-to-wash-the-dishes-in-a-sink-16050545/ |
+| `como-elegir-orden-de-limpieza-por-habitacion.jpg` | https://www.pexels.com/photo/a-woman-cleaning-a-kitchen-9462746/ |
 
 ## Sección "¿Por qué esta web?" del home
 
