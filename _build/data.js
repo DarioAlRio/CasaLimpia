@@ -844,6 +844,7 @@ const ARTICLES = [
   },
   {
     slug: "robot-aspirador-se-queda-atascado-que-hacer",
+    img: "/assets/img/blog/robot-aspirador-se-queda-atascado-que-hacer.jpg",
     title: "Robot aspirador: qué hacer si se queda atascado con frecuencia",
     dek: "Las causas más habituales de que un robot se quede atrapado una y otra vez, y cómo reducirlas sin cambiar de aparato.",
     updated: "2026-09-19",
@@ -857,6 +858,7 @@ const ARTICLES = [
   },
   {
     slug: "aspirador-vertical-cuanta-autonomia-necesitas",
+    img: "/assets/img/blog/aspirador-vertical-cuanta-autonomia-necesitas.jpg",
     title: "Aspirador vertical sin cable: cuánta autonomía necesitas según tu casa",
     dek: "Cómo calcular los minutos reales que necesitas para no quedarte a mitad de faena, según el tamaño y el tipo de tu vivienda.",
     updated: "2026-09-19",
@@ -870,6 +872,7 @@ const ARTICLES = [
   },
   {
     slug: "superficies-donde-no-usar-limpiador-a-vapor",
+    img: "/assets/img/blog/superficies-donde-no-usar-limpiador-a-vapor.jpg",
     title: "Limpiador a vapor: en qué superficies no se debe usar",
     dek: "El calor y la humedad del vapor no son inofensivos en todas partes: los materiales que pueden dañarse con un uso habitual.",
     updated: "2026-09-19",
@@ -884,6 +887,7 @@ const ARTICLES = [
   },
   {
     slug: "mantener-filtros-robot-aspirador-que-dure-mas",
+    img: "/assets/img/blog/mantener-filtros-robot-aspirador-que-dure-mas.jpg",
     title: "Cómo mantener los filtros de tu robot aspirador para que dure más",
     dek: "Un mantenimiento sencillo y de pocos minutos que alarga la vida del filtro y evita perder succión antes de tiempo.",
     updated: "2026-09-19",
@@ -898,6 +902,7 @@ const ARTICLES = [
   },
   {
     slug: "mopa-electrica-vs-fregona-tradicional-cuando-compensa-cada-una",
+    img: "/assets/img/blog/mopa-electrica-vs-fregona-tradicional-cuando-compensa-cada-una.jpg",
     title: "Mopa eléctrica vs fregona tradicional: cuándo compensa cada una",
     dek: "Ni la mopa eléctrica sustituye siempre a la fregona ni al revés: en qué casos gana cada sistema de fregado.",
     updated: "2026-09-19",
@@ -912,6 +917,7 @@ const ARTICLES = [
   },
   {
     slug: "cuando-cambiar-mopas-y-panos-de-microfibra",
+    img: "/assets/img/blog/cuando-cambiar-mopas-y-panos-de-microfibra.jpg",
     title: "Cuándo cambiar las mopas y paños de microfibra (y cómo notarlo)",
     dek: "Señales claras de que un paño o una mopa ya no limpian igual, aunque a simple vista parezcan en buen estado.",
     updated: "2026-09-19",
@@ -925,6 +931,7 @@ const ARTICLES = [
   },
   {
     slug: "por-que-tu-robot-aspirador-ya-no-succiona-igual",
+    img: "/assets/img/blog/por-que-tu-robot-aspirador-ya-no-succiona-igual.jpg",
     title: "Por qué tu robot aspirador ya no succiona igual (y no siempre es la batería)",
     dek: "Antes de pensar en una avería grave, hay varias causas mucho más baratas de resolver que conviene descartar primero.",
     updated: "2026-09-19",
@@ -939,6 +946,7 @@ const ARTICLES = [
   },
   {
     slug: "limpieza-antes-o-despues-de-una-mudanza",
+    img: "/assets/img/blog/limpieza-antes-o-despues-de-una-mudanza.jpg",
     title: "Limpieza a fondo antes o después de una mudanza: qué priorizar",
     dek: "Con el tiempo limitado que suele haber en una mudanza, estas son las tareas que más se notan y las que se pueden dejar para después.",
     updated: "2026-09-19",
@@ -953,6 +961,7 @@ const ARTICLES = [
   },
   {
     slug: "guantes-de-limpieza-cuando-son-realmente-necesarios",
+    img: "/assets/img/blog/guantes-de-limpieza-cuando-son-realmente-necesarios.jpg",
     title: "Guantes de limpieza: cuándo son realmente necesarios y cuándo no",
     dek: "No toda tarea de limpieza requiere guantes, pero en algunas es una cuestión de protección real, no de comodidad.",
     updated: "2026-09-19",
@@ -967,6 +976,7 @@ const ARTICLES = [
   },
   {
     slug: "como-elegir-orden-de-limpieza-por-habitacion",
+    img: "/assets/img/blog/como-elegir-orden-de-limpieza-por-habitacion.jpg",
     title: "En qué orden limpiar la casa para no repetir trabajo",
     dek: "Un orden lógico de arriba a abajo y de seco a húmedo que evita ensuciar de nuevo lo que ya habías limpiado.",
     updated: "2026-09-19",
