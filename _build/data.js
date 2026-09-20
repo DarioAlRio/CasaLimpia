@@ -240,6 +240,9 @@ const GUIDES = [
       { asin: "B09D7NR6VC", title: "Mopa Fregona con Pulverizador, Mopas de Limpieza Suelos con 3 Almohadillas", note: "Mopa manual con pulverizador, dos botellas recargables y 3 almohadillas; no necesita batería.", img: "https://m.media-amazon.com/images/I/81qszUiiwML._AC_UL320_.jpg", price: "19,99", rating: "4,5★" },
       { asin: "B0F9Y68Y86", title: "Fregona Eléctrica sin Cable", note: "Fregona eléctrica con cabezal rotativo, depósito con spray y luz LED. Ojo: solo 38 valoraciones, aún poco contrastada.", img: "https://m.media-amazon.com/images/I/61cEZIwKQtL._AC_UL320_.jpg", price: "69,99", rating: "4,2★" },
       { asin: "B0CW1QDRVV", title: "Tineco Floor One Stretch S6 Aspiradora en Seco y Húmedo, Aspirador Vertical", note: "Aspira y friega a la vez; se reclina 180° para llegar bajo muebles y se autolimpia con agua a 70 °C. Gama alta.", img: "https://m.media-amazon.com/images/I/71O2R81BpqL._AC_UL320_.jpg", price: "209,00", rating: "4,4★" },
+      { asin: "B09G383W17", title: "Vileda Steam PLUS, Mopa a Vapor para Todo Tipo de Suelos y Alfombras", note: "Mopa a vapor con depósito de 400 ml que incluye 2 almohadillas y 1 Power Pad; limpia sin productos químicos.", img: "https://m.media-amazon.com/images/I/61TGceXSUBL._AC_SF480,480_.jpg", price: "99.31", rating: "4,4★" },
+      { asin: "B0D6Z2C5VH", title: "Shark Mopa de vapor automática con lanzador y 6 almohadillas de agarre", note: "Mopa de vapor con 3 niveles, cable de 8 m y 6 almohadillas incluidas, para suelos duros sellados.", img: "https://m.media-amazon.com/images/I/61VpOt4X1UL._AC_SF480,480_.jpg", price: "226.77", rating: "4,6★" },
+      { asin: "B0CRR9KDK8", title: "Tineco iFLOOR 5 Breeze Complete Aspiradora/Limpiadora de Suelos en Seco y Mojado", note: "Inalámbrica, aspira y friega en un solo paso suelos duros, con limpieza de bordes y autolimpieza.", img: "https://m.media-amazon.com/images/I/616jQ17pobL._AC_SF480,480_.jpg", price: "169", rating: "4,2★" },
     ],
   },
   {
@@ -639,6 +642,7 @@ const GUIDES = [
       { asin: "B07DR5LNKY", title: "Spontex Guante Dermoresistente Talla M", note: "Par de guantes reutilizables de látex natural con forro interior textil, en tres tallas.", img: "https://m.media-amazon.com/images/I/71zUOFxZngL._AC_UL320_.jpg", price: "7,69", rating: "4,6★" },
       { asin: "B0BZSHTP5Q", title: "HANSKA 100 guantes desechables de nitrilo Azul, sin polvo", note: "Guantes de nitrilo ambidiestros no estériles, con agarre en palma y yemas; para tareas puntuales.", img: "https://m.media-amazon.com/images/I/71Q5VbB9gIL._AC_UL320_.jpg", price: "7,56", rating: "4,6★" },
       { asin: "B0B94PC694", title: "Ansell Microflex 93-732 Guantes Nitrilo Sin Polvo, Desechables, Latex Free", note: "Nitrilo texturizado con resistencia a salpicaduras químicas y sin látex; opción más profesional entre los desechables.", img: "https://m.media-amazon.com/images/I/41hFSHFvtHL._AC_UL320_.jpg", price: "10,86", rating: "4,5★" },
+      { asin: "B00X83V2DK", title: "Vileda Comfort and Care - Guantes de goma con loción de manzanilla (talla M, 1 par)", note: "Guantes de goma reutilizables con loción de manzanilla para cuidar las manos en el fregado.", img: "https://m.media-amazon.com/images/I/71fWoWmpnQL._AC_SF480,480_.jpg", price: "5.31", rating: "4,6★" },
     ],
   },
   {
