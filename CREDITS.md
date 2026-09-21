@@ -44,13 +44,13 @@ trazabilidad y buena práctica, no porque la licencia lo exija.
 | `robot-aspirador-para-piso-pequeno-que-necesitas.jpg` | https://www.pexels.com/photo/19846380/ |
 | `robot-aspirador-para-casa-grande-que-necesitas.jpg` | https://www.pexels.com/photo/34688219/ |
 | `robot-aspirador-con-base-de-autovaciado-merece-la-pena.jpg` | https://www.pexels.com/photo/8566419/ |
-| `robot-aspirador-o-aspiradora-escoba-cual-comprar.jpg` | https://www.pexels.com/photo/4792774/ |
+| `robot-aspirador-o-aspiradora-escoba-cual-comprar.jpg` | https://www.pexels.com/photo/36714296/ |
 | `cuanto-gastar-en-un-robot-aspirador.jpg` | https://www.pexels.com/photo/7641488/ |
 | `errores-al-comprar-un-robot-aspirador.jpg` | https://www.pexels.com/photo/8566433/ |
-| `aspiradora-escoba-sin-cable-para-pelo-de-mascota.jpg` | https://www.pexels.com/photo/5706430/ |
+| `aspiradora-escoba-sin-cable-para-pelo-de-mascota.jpg` | https://www.pexels.com/photo/7484840/ |
 | `mopa-de-vapor-o-fregona-electrica-cual-elegir.jpg` | https://www.pexels.com/photo/7641484/ |
 | `mejor-fregona-y-cubo-para-piso-pequeno.jpg` | https://www.pexels.com/photo/6196566/ |
-| `limpiador-a-vapor-que-necesitas-antes-de-comprarlo.jpg` | https://www.pexels.com/photo/7513165/ |
+| `limpiador-a-vapor-que-necesitas-antes-de-comprarlo.jpg` | https://www.pexels.com/photo/7641347/ |
 | `desinfectante-multiusos-o-limpiador-neutro-cual-elegir.jpg` | https://www.pexels.com/photo/10557902/ |
 | `aspirador-de-mano-para-coche-como-elegir.jpg` | https://www.pexels.com/photo/5233285/ |
 | `guantes-de-nitrilo-o-goma-para-limpiar-cual-elegir.jpg` | https://www.pexels.com/photo/9462685/ |
