@@ -125,6 +125,59 @@ const ARTICLE_GUIDES = {
   "como-elegir-orden-de-limpieza-por-habitacion": [
     "limpiadores-multiusos-y-desinfectantes",
     "fregonas-y-cubos-con-escurridor"
+  ],
+  "mejor-robot-aspirador-para-pelo-de-mascota": [
+    "robots-aspiradores",
+    "recambios-y-filtros-para-robots-aspiradores"
+  ],
+  "robot-aspirador-para-piso-pequeno-que-necesitas": [
+    "robots-aspiradores"
+  ],
+  "robot-aspirador-para-casa-grande-que-necesitas": [
+    "robots-aspiradores",
+    "recambios-y-filtros-para-robots-aspiradores"
+  ],
+  "robot-aspirador-con-base-de-autovaciado-merece-la-pena": [
+    "robots-aspiradores",
+    "recambios-y-filtros-para-robots-aspiradores"
+  ],
+  "robot-aspirador-o-aspiradora-escoba-cual-comprar": [
+    "robots-aspiradores",
+    "aspiradores-verticales-sin-cable"
+  ],
+  "cuanto-gastar-en-un-robot-aspirador": [
+    "robots-aspiradores"
+  ],
+  "errores-al-comprar-un-robot-aspirador": [
+    "robots-aspiradores",
+    "recambios-y-filtros-para-robots-aspiradores"
+  ],
+  "aspiradora-escoba-sin-cable-para-pelo-de-mascota": [
+    "aspiradores-verticales-sin-cable",
+    "aspiradores-de-mano-y-para-coche"
+  ],
+  "mopa-de-vapor-o-fregona-electrica-cual-elegir": [
+    "mopas-electricas",
+    "limpiadores-a-vapor"
+  ],
+  "mejor-fregona-y-cubo-para-piso-pequeno": [
+    "fregonas-y-cubos-con-escurridor"
+  ],
+  "limpiador-a-vapor-que-necesitas-antes-de-comprarlo": [
+    "limpiadores-a-vapor"
+  ],
+  "desinfectante-multiusos-o-limpiador-neutro-cual-elegir": [
+    "limpiadores-multiusos-y-desinfectantes"
+  ],
+  "aspirador-de-mano-para-coche-como-elegir": [
+    "aspiradores-de-mano-y-para-coche"
+  ],
+  "guantes-de-nitrilo-o-goma-para-limpiar-cual-elegir": [
+    "guantes-y-utensilios-de-limpieza"
+  ],
+  "kit-de-limpieza-para-primer-piso-que-comprar": [
+    "fregonas-y-cubos-con-escurridor",
+    "limpiadores-multiusos-y-desinfectantes"
   ]
 };
 
