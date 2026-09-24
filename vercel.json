@@ -6,6 +6,611 @@
   "cleanUrls": false,
   "redirects": [
     {
+      "source": "/comparativas/4-piezas-filtro-hepa-repuesto-compatible-vs-dreame-filtro-de-recambio-original.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/4-piezas-filtro-hepa-repuesto-compatible-vs-funnytime.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/4-piezas-filtro-hepa-repuesto-compatible-vs-recambio-accesorios-kits-para-eufy-clean.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/4-piezas-filtro-hepa-repuesto-compatible-vs-recambio-accesorios-para-irobot-roomba.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ansell-alphatec-37-185-guantes-nitrilo-vs-hanska-100-guantes-desechables-de-nitril.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ansell-alphatec-37-185-guantes-nitrilo-vs-spontex-guante-dermoresistente-talla-m.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ansell-alphatec-37-185-guantes-nitrilo-vs-vileda-comfort-and-care.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspirador-de-mano-22000pa-vs-aspiradora-de-mano.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspirador-de-mano-22000pa-vs-bosch-aspirador-sin-cable-y-de-mano-move.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspirador-de-mano-22000pa-vs-sealight-aspirador-de-mano.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspiradora-de-mano-coche-potente-aspirad-vs-aspiradora-de-mano.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspiradora-de-mano-coche-potente-aspirad-vs-bosch-aspirador-sin-cable-y-de-mano-move.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspiradora-de-mano-coche-potente-aspirad-vs-sealight-aspirador-de-mano.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspiradora-de-mano-vs-bosch-aspirador-sin-cable-y-de-mano-move.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aspiradora-sin-cable-60kpa-650w-70min-vs-ultenic-aspiradora-escoba-sin-cable-50kp.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bekaba-kit-de-13-repuestos-compartible-vs-dreame-filtro-de-recambio-original.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bekaba-kit-de-13-repuestos-compartible-vs-recambio-accesorios-para-irobot-roomba.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bolsa-de-limpieza-portatil-con-asa-vs-maximex-caja-de-almacenamiento.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bolsa-de-limpieza-portatil-con-asa-vs-organizador-plegable-para-productos.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cepillo-electrico-limpieza-hogar-vs-hanska-100-guantes-desechables-de-nitril.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cepillo-electrico-limpieza-hogar-vs-spontex-guante-dermoresistente-talla-m.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cepillo-electrico-limpieza-hogar-vs-vileda-comfort-and-care.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/chanteclair-desinfectante-multiusos-12-vs-sanytol-limpiador-desinfectante-multiuso.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/famivac-fv5-aspiradora-sin-cable-vs-aspiradora-sin-cable-60kpa-650w-70min.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/famivac-fv5-aspiradora-sin-cable-vs-ultenic-aspiradora-escoba-sin-cable-50kp.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/famivac-fv5-aspiradora-sin-cable-vs-ultenic-aspiradora-sin-cable-con-cepillo.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/funnytime-vs-dreame-filtro-de-recambio-original.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/funnytime-vs-recambio-accesorios-para-irobot-roomba.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/guantes-de-estanque-largos-70cm-pvc-vs-ansell-alphatec-37-185-guantes-nitrilo.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/guantes-de-estanque-largos-70cm-pvc-vs-hanska-100-guantes-desechables-de-nitril.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/guantes-de-estanque-largos-70cm-pvc-vs-spontex-guante-dermoresistente-talla-m.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/guantes-de-estanque-largos-70cm-pvc-vs-vileda-comfort-and-care.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/hanska-100-guantes-desechables-de-nitril-vs-vileda-comfort-and-care.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/lefant-m330-plus-robot-aspirador-vs-dreame-l10s-ultra-gen-3-kit-robot.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/lefant-m330-plus-robot-aspirador-vs-roborock-robot-aspirador-qv-35a-set.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/leifheit-set-de-fregona-clean-twist-disc-vs-mery-cubo-fregona-con-ruedas.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/limpiador-pato-wc-azul-750ml-vs-chanteclair-desinfectante-multiusos-12.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/limpiador-pato-wc-azul-750ml-vs-sanytol-limpiador-desinfectante-multiuso.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/limpiador-pato-wc-azul-750ml-vs-sanytol-limpiador-desinfectante-suelos.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/limpiador-pato-wc-azul-750ml-vs-sanytol-limpiador-desinfectante.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mery-cubo-fregona-con-ruedas-vs-leifheit-set-de-fregona-clean-twist-disc.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mery-cubo-fregona-con-ruedas-vs-mery-cubo-fregona-con-ruedas.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mery-cubo-fregona-con-ruedas-vs-vileda-turbo-recambio-original.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mery-vs-leifheit-set-de-fregona-clean-twist-disc.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mery-vs-mery-cubo-fregona-con-ruedas.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mery-vs-vileda-turbo-recambio-original.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mopa-fregona-con-cubo-escurridor-doble-vs-leifheit-set-de-fregona-clean-twist-disc.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mopa-fregona-con-cubo-escurridor-doble-vs-vileda-turbo-recambio-original.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mopa-fregona-con-pulverizador-vs-kit-de-iniciacion-de-limpiador-de-suelos.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/naspiweiya-colgador-y-organizador-vs-bolsa-de-limpieza-portatil-con-asa.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/naspiweiya-colgador-y-organizador-vs-maximex-caja-de-almacenamiento.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/naspiweiya-colgador-y-organizador-vs-organizador-plegable-para-productos.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/organizador-de-productos-de-limpieza-vs-bolsa-de-limpieza-portatil-con-asa.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/organizador-de-productos-de-limpieza-vs-maximex-caja-de-almacenamiento.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/organizador-de-productos-de-limpieza-vs-organizador-plegable-para-productos.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/organizador-plegable-para-productos-vs-maximex-caja-de-almacenamiento.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/princess-aspiradora-sin-cable-vs-aspiradora-sin-cable-60kpa-650w-70min.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/princess-aspiradora-sin-cable-vs-famivac-fv5-aspiradora-sin-cable.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/princess-aspiradora-sin-cable-vs-ultenic-aspiradora-escoba-sin-cable-50kp.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/princess-aspiradora-sin-cable-vs-ultenic-aspiradora-sin-cable-con-cepillo.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/recambio-accesorios-kits-para-eufy-clean-vs-dreame-filtro-de-recambio-original.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/recambio-accesorios-kits-para-eufy-clean-vs-funnytime.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/recambio-accesorios-kits-para-eufy-clean-vs-recambio-accesorios-para-irobot-roomba.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/recambio-accesorios-para-irobot-roomba-vs-dreame-filtro-de-recambio-original.html",
+      "destination": "/guias/recambios-y-filtros-para-robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/roborock-robot-aspirador-qv-35a-set-vs-dreame-l10s-ultra-gen-3-kit-robot.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/roborock-saros-20-neo-robot-aspirador-vs-dreame-l10s-ultra-gen-3-kit-robot.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/roborock-saros-20-neo-robot-aspirador-vs-lefant-m330-plus-robot-aspirador.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/roborock-saros-20-neo-robot-aspirador-vs-roborock-robot-aspirador-qv-35a-set.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ronlap-lote-de-8-separadores-de-estante-vs-bolsa-de-limpieza-portatil-con-asa.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ronlap-lote-de-8-separadores-de-estante-vs-maximex-caja-de-almacenamiento.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ronlap-lote-de-8-separadores-de-estante-vs-organizador-de-productos-de-limpieza.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ronlap-lote-de-8-separadores-de-estante-vs-organizador-plegable-para-productos.html",
+      "destination": "/guias/organizadores-de-productos-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-limpiador-desinfectante-suelos-vs-chanteclair-desinfectante-multiusos-12.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-limpiador-desinfectante-suelos-vs-sanytol-limpiador-desinfectante-multiuso.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-limpiador-desinfectante-vs-chanteclair-desinfectante-multiusos-12.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-limpiador-desinfectante-vs-sanytol-limpiador-desinfectante-multiuso.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-limpiador-desinfectante-vs-sanytol-limpiador-desinfectante-suelos.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-vs-chanteclair-desinfectante-multiusos-12.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-vs-sanytol-limpiador-desinfectante-multiuso.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sanytol-vs-sanytol-limpiador-desinfectante-suelos.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sealight-aspirador-de-mano-vs-aspiradora-de-mano.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sealight-aspirador-de-mano-vs-bosch-aspirador-sin-cable-y-de-mano-move.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-hydrovac-aspiradora-mopa-sin-cable-vs-kit-de-iniciacion-de-limpiador-de-suelos.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-hydrovac-aspiradora-mopa-sin-cable-vs-mopa-fregona-con-pulverizador.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-mopa-de-vapor-automatica-vs-kit-de-iniciacion-de-limpiador-de-suelos.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-mopa-de-vapor-automatica-vs-mopa-fregona-con-pulverizador.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-mopa-de-vapor-automatica-vs-shark-hydrovac-aspiradora-mopa-sin-cable.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-mopa-limpiador-de-vapor-automatica-vs-shark-mopa-limpiador-de-vapor-automatica.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-mopa-limpiador-de-vapor-automatica-vs-solac.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/shark-mopa-limpiador-de-vapor-automatica-vs-vileda-steam-plus.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sinji-mopa-electrica-inalambrica-vs-kit-de-iniciacion-de-limpiador-de-suelos.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sinji-mopa-electrica-inalambrica-vs-mopa-fregona-con-pulverizador.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sinji-mopa-electrica-inalambrica-vs-shark-hydrovac-aspiradora-mopa-sin-cable.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sloksfil-aspiradora-de-mano-4-en-1-vs-aspirador-de-mano-22000pa.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sloksfil-aspiradora-de-mano-4-en-1-vs-aspiradora-de-mano.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sloksfil-aspiradora-de-mano-4-en-1-vs-bosch-aspirador-sin-cable-y-de-mano-move.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sloksfil-aspiradora-de-mano-4-en-1-vs-sealight-aspirador-de-mano.html",
+      "destination": "/guias/aspiradores-de-mano-y-para-coche.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/solac-vs-shark-mopa-limpiador-de-vapor-automatica.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/solac-vs-vileda-steam-plus.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/spontex-guante-dermoresistente-talla-m-vs-hanska-100-guantes-desechables-de-nitril.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/spontex-guante-dermoresistente-talla-m-vs-vileda-comfort-and-care.html",
+      "destination": "/guias/guantes-y-utensilios-de-limpieza.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/swiffer-wetjet-vs-kit-de-iniciacion-de-limpiador-de-suelos.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/swiffer-wetjet-vs-mopa-fregona-con-pulverizador.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/swiffer-wetjet-vs-shark-hydrovac-aspiradora-mopa-sin-cable.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/swiffer-wetjet-vs-shark-mopa-de-vapor-automatica.html",
+      "destination": "/guias/mopas-electricas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ultenic-aspiradora-sin-cable-con-cepillo-vs-aspiradora-sin-cable-60kpa-650w-70min.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ultenic-aspiradora-sin-cable-con-cepillo-vs-ultenic-aspiradora-escoba-sin-cable-50kp.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/v16-aspiradora-sin-cable-55kpa-600w-80mi-vs-aspiradora-sin-cable-60kpa-650w-70min.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/v16-aspiradora-sin-cable-55kpa-600w-80mi-vs-ultenic-aspiradora-escoba-sin-cable-50kp.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/v16-aspiradora-sin-cable-55kpa-600w-80mi-vs-ultenic-aspiradora-sin-cable-con-cepillo.html",
+      "destination": "/guias/aspiradores-verticales-sin-cable.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vexilar-w8-robot-aspirador-5000pa-vs-dreame-l10s-ultra-gen-3-kit-robot.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vexilar-w8-robot-aspirador-5000pa-vs-lefant-m330-plus-robot-aspirador.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vexilar-w8-robot-aspirador-5000pa-vs-roborock-robot-aspirador-qv-35a-set.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vileda-steam-plus-vs-shark-mopa-limpiador-de-vapor-automatica.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vileda-steam-plus-vs-solac.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vileda-steam-plus-vs-vileda-steam-plus.html",
+      "destination": "/guias/limpiadores-a-vapor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vileda-turbo-recambio-original-vs-leifheit-set-de-fregona-clean-twist-disc.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vileda-turbo-recambio-original-vs-mery-cubo-fregona-con-ruedas.html",
+      "destination": "/guias/fregonas-y-cubos-con-escurridor.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/xiaomi-s40c-robot-aspirador-con-fregado-vs-dreame-l10s-ultra-gen-3-kit-robot.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/xiaomi-s40c-robot-aspirador-con-fregado-vs-roborock-robot-aspirador-qv-35a-set.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/xiaomi-s40c-robot-aspirador-con-fregado-vs-vexilar-w8-robot-aspirador-5000pa.html",
+      "destination": "/guias/robots-aspiradores.html",
+      "permanent": true
+    },
+    {
       "source": "/:section(guias|blog|comparativas|productos|legal|mejores)/:slug([^/.]+)",
       "destination": "/:section/:slug.html",
       "permanent": true

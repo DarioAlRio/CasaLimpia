@@ -11,7 +11,7 @@ const GUIDES = [
     slug: "robots-aspiradores",
     title: "Cómo elegir un robot aspirador",
     dek: "Succión, navegación, autonomía y base de autovaciado: los criterios que de verdad cambian la limpieza diaria de tu casa.",
-    img: "/assets/img/guias/robots-aspiradores.jpg",
+    img: "/assets/img/guias/robots-aspiradores.webp",
     updated: "2026-09-17",
     intro: [
       "Un robot aspirador bueno para tu casa no es necesariamente el más caro ni el que anuncia más Pascales de succión: depende del tipo de suelo que tengas, de si hay alfombras o mascotas, y de cuánto quieres olvidarte de vaciar el depósito cada pocos días.",
@@ -91,7 +91,7 @@ const GUIDES = [
     slug: "aspiradores-verticales-sin-cable",
     title: "Cómo elegir un aspirador vertical sin cable",
     dek: "Autonomía real, potencia de succión y peso: lo que marca la diferencia entre un aspirador escoba útil y uno que acaba en el armario.",
-    img: "/assets/img/guias/aspiradores-verticales-sin-cable.jpg",
+    img: "/assets/img/guias/aspiradores-verticales-sin-cable.webp",
     updated: "2026-09-16",
     intro: [
       "El aspirador vertical sin cable (o \"aspirador escoba\") ha sustituido a la aspiradora con cable en muchos hogares porque es más rápido de sacar para una limpieza puntual, pero no todos los modelos aguantan lo mismo ni pesan igual en la mano tras diez minutos de uso.",
@@ -171,7 +171,7 @@ const GUIDES = [
     slug: "mopas-electricas",
     title: "Cómo elegir una mopa eléctrica",
     dek: "Giro, pulverización y autonomía: la diferencia entre una mopa eléctrica que ahorra tiempo y una que solo complica el fregado.",
-    img: "/assets/img/guias/mopas-electricas.jpg",
+    img: "/assets/img/guias/mopas-electricas.webp",
     updated: "2026-09-15",
     intro: [
       "Una mopa eléctrica gira o vibra sola para desprender la suciedad sin que tengas que hacer fuerza con el brazo, y muchas incorporan un depósito con pulverizador para no tener que llenar un cubo de agua. No sustituye siempre a la fregona tradicional, pero en suelos duros del día a día ahorra bastante esfuerzo.",
@@ -249,7 +249,7 @@ const GUIDES = [
     slug: "limpiadores-a-vapor",
     title: "Cómo elegir un limpiador a vapor",
     dek: "Presión, tiempo de calentamiento y accesorios: lo que diferencia un limpiador a vapor útil de uno que se queda en el armario.",
-    img: "/assets/img/guias/limpiadores-a-vapor.jpg",
+    img: "/assets/img/guias/limpiadores-a-vapor.webp",
     updated: "2026-09-14",
     intro: [
       "Un limpiador a vapor usa agua calentada a alta temperatura para desinfectar y desprender suciedad sin apenas productos químicos, y sirve tanto para suelos como, con los accesorios adecuados, para tapicerías, cristales o juntas de baño.",
@@ -329,7 +329,7 @@ const GUIDES = [
     slug: "recambios-y-filtros-para-robots-aspiradores",
     title: "Cómo elegir recambios y filtros para tu robot aspirador",
     dek: "Compatibilidad exacta con tu modelo, calidad del filtro HEPA y kits completos frente a piezas sueltas.",
-    img: "/assets/img/guias/recambios-y-filtros-para-robots-aspiradores.jpg",
+    img: "/assets/img/guias/recambios-y-filtros-para-robots-aspiradores.webp",
     updated: "2026-09-13",
     intro: [
       "Un robot aspirador pierde eficacia mucho antes de estropearse: un filtro saturado, un cepillo lateral roto o un cepillo principal enredado de pelo bajan la succión real aunque el motor siga funcionando perfectamente. Cambiar estas piezas a tiempo es más barato y sostenible que sustituir el robot entero.",
@@ -409,7 +409,7 @@ const GUIDES = [
     slug: "fregonas-y-cubos-con-escurridor",
     title: "Cómo elegir una fregona y cubo con escurridor",
     dek: "Sistema de escurrido, capacidad del cubo y tipo de microfibra: lo que hace que fregar a mano sea rápido o pesado.",
-    img: "/assets/img/guias/fregonas-y-cubos-con-escurridor.jpg",
+    img: "/assets/img/guias/fregonas-y-cubos-con-escurridor.webp",
     updated: "2026-09-12",
     intro: [
       "La fregona con cubo y escurridor sigue siendo, para muchas casas, la forma más rápida y barata de fregar suelos grandes sin depender de baterías ni cargadores. La diferencia entre un set cómodo y uno frustrante está casi siempre en el mecanismo de escurrido y en si el cubo separa o no el agua limpia de la sucia.",
@@ -489,7 +489,7 @@ const GUIDES = [
     slug: "limpiadores-multiusos-y-desinfectantes",
     title: "Cómo elegir un limpiador multiusos y desinfectante",
     dek: "Qué mirar en la etiqueta antes de comprar: eficacia real, tipo de superficie y si hace falta lejía para desinfectar de verdad.",
-    img: "/assets/img/guias/limpiadores-multiusos-y-desinfectantes.jpg",
+    img: "/assets/img/guias/limpiadores-multiusos-y-desinfectantes.webp",
     updated: "2026-09-11",
     intro: [
       "El pasillo de limpiadores multiusos y desinfectantes del supermercado (y de Amazon) está lleno de productos que prometen eliminar el 99,9% de bacterias y virus, pero no todos están formulados igual ni sirven para las mismas superficies. Esta guía explica qué mirar en la etiqueta antes de comprar, no qué marca elegir.",
@@ -569,7 +569,7 @@ const GUIDES = [
     slug: "guantes-y-utensilios-de-limpieza",
     title: "Cómo elegir guantes y utensilios de limpieza",
     dek: "Material, talla y grosor de los guantes, y qué utensilios ahorran más tiempo en el día a día de la limpieza.",
-    img: "/assets/img/guias/guantes-y-utensilios-de-limpieza.jpg",
+    img: "/assets/img/guias/guantes-y-utensilios-de-limpieza.webp",
     updated: "2026-09-10",
     intro: [
       "Los guantes de limpieza parecen un producto sencillo, pero el material, la talla y el grosor cambian mucho la comodidad y la protección real frente a productos químicos, agua caliente o superficies abrasivas. A eso se suman utensilios como cepillos eléctricos que ahorran esfuerzo en juntas y azulejos.",
@@ -649,7 +649,7 @@ const GUIDES = [
     slug: "organizadores-de-productos-de-limpieza",
     title: "Cómo elegir organizadores de productos de limpieza",
     dek: "Bajo el fregadero, en carrito o en bolsa portátil: cómo mantener ordenados los productos de limpieza sin que ocupen toda la casa.",
-    img: "/assets/img/guias/organizadores-de-productos-de-limpieza.jpg",
+    img: "/assets/img/guias/organizadores-de-productos-de-limpieza.webp",
     updated: "2026-09-09",
     intro: [
       "Los productos y utensilios de limpieza tienden a acumularse en cualquier hueco libre si no tienen un sitio fijo, lo que hace perder tiempo buscándolos y puede ser un riesgo si hay niños o mascotas cerca de productos químicos mal guardados.",
@@ -729,7 +729,7 @@ const GUIDES = [
     slug: "aspiradores-de-mano-y-para-coche",
     title: "Cómo elegir un aspirador de mano y para coche",
     dek: "Succión sostenida, autonomía real y accesorios: lo que importa para migas, pelo de mascota y el interior del coche.",
-    img: "/assets/img/guias/aspiradores-de-mano-y-para-coche.jpg",
+    img: "/assets/img/guias/aspiradores-de-mano-y-para-coche.webp",
     updated: "2026-09-08",
     intro: [
       "Un aspirador de mano cubre lo que un robot o un vertical no llegan bien: el interior de un coche, un sofá, un teclado o unas escaleras. La mayoría de los que se venden hoy son inalámbricos y muy compactos, pero varían bastante en succión sostenida y en cuánto dura la batería en uso real.",
@@ -815,7 +815,7 @@ const ARTICLES = [
     slug: "cuanto-dura-realmente-un-robot-aspirador",
     title: "¿Cuánto dura realmente un robot aspirador?",
     dek: "Vida útil típica de la batería, el motor y los sensores, y qué mantenimiento la alarga de verdad.",
-    img: "/assets/img/blog/cuanto-dura-realmente-un-robot-aspirador.jpg",
+    img: "/assets/img/blog/cuanto-dura-realmente-un-robot-aspirador.webp",
     updated: "2026-09-16",
     body: [
       "Un <a href=\"/guias/robots-aspiradores.html\">robot aspirador bien mantenido</a> suele durar entre 4 y 7 años antes de que algún componente clave (normalmente la batería o el motor de succión) empiece a dar problemas serios, aunque la vida útil real depende mucho de la frecuencia de uso y del mantenimiento que le hagas.",
@@ -829,7 +829,7 @@ const ARTICLES = [
     slug: "errores-comunes-al-limpiar-segun-el-tipo-de-suelo",
     title: "5 errores comunes al limpiar según el tipo de suelo",
     dek: "Lo que funciona en un suelo puede dañar otro: fallos habituales que se repiten en parqué, laminado, baldosa y mármol.",
-    img: "/assets/img/blog/errores-comunes-al-limpiar-segun-el-tipo-de-suelo.jpg",
+    img: "/assets/img/blog/errores-comunes-al-limpiar-segun-el-tipo-de-suelo.webp",
     updated: "2026-09-13",
     body: [
       "No todos los suelos se limpian igual, y usar el mismo método o producto en toda la casa es uno de los errores más habituales y más fáciles de evitar sin gastar más dinero.",
@@ -844,7 +844,7 @@ const ARTICLES = [
     slug: "como-organizar-el-armario-de-la-limpieza",
     title: "Cómo organizar el armario o mueble de la limpieza",
     dek: "Un sistema sencillo para que cada producto y utensilio tenga un sitio fijo y se encuentre en segundos.",
-    img: "/assets/img/blog/como-organizar-el-armario-de-la-limpieza.jpg",
+    img: "/assets/img/blog/como-organizar-el-armario-de-la-limpieza.webp",
     updated: "2026-09-11",
     body: [
       "El armario de la limpieza tiende a desordenarse porque se van añadiendo productos nuevos sin sacar los que ya no se usan, y porque los utensilios largos (escobas, fregonas, mopas) no siempre tienen un sitio claro donde apoyarse sin caerse.",
@@ -858,7 +858,7 @@ const ARTICLES = [
     slug: "limpieza-semanal-vs-limpieza-profunda-como-repartir-el-tiempo",
     title: "Limpieza semanal frente a limpieza profunda: cómo repartir el tiempo",
     dek: "Qué tareas conviene hacer cada semana y cuáles se pueden espaciar más sin que la casa se note descuidada.",
-    img: "/assets/img/blog/limpieza-semanal-vs-limpieza-profunda-como-repartir-el-tiempo.jpg",
+    img: "/assets/img/blog/limpieza-semanal-vs-limpieza-profunda-como-repartir-el-tiempo.webp",
     updated: "2026-09-09",
     body: [
       "Intentar hacerlo todo a fondo cada semana es una de las razones más habituales por las que la limpieza acaba pareciendo interminable: no todas las tareas necesitan la misma frecuencia para mantener una casa en buen estado.",
@@ -872,7 +872,7 @@ const ARTICLES = [
     slug: "vinagre-bicarbonato-y-otros-remedios-caseros-que-funcionan-de-verdad",
     title: "Vinagre, bicarbonato y otros remedios caseros que funcionan de verdad",
     dek: "Qué hacen realmente estos productos caseros y en qué casos conviene mejor un producto específico.",
-    img: "/assets/img/blog/vinagre-bicarbonato-y-otros-remedios-caseros-que-funcionan-de-verdad.jpg",
+    img: "/assets/img/blog/vinagre-bicarbonato-y-otros-remedios-caseros-que-funcionan-de-verdad.webp",
     updated: "2026-09-07",
     body: [
       "El vinagre y el bicarbonato aparecen en casi cualquier lista de \"trucos de limpieza natural\", pero no funcionan igual de bien para todo: entender su química básica ayuda a saber cuándo merece la pena usarlos y cuándo es mejor un producto específico.",
@@ -884,7 +884,7 @@ const ARTICLES = [
   },
   {
     slug: "robot-aspirador-se-queda-atascado-que-hacer",
-    img: "/assets/img/blog/robot-aspirador-se-queda-atascado-que-hacer.jpg",
+    img: "/assets/img/blog/robot-aspirador-se-queda-atascado-que-hacer.webp",
     title: "Robot aspirador: qué hacer si se queda atascado con frecuencia",
     dek: "Las causas más habituales de que un robot se quede atrapado una y otra vez, y cómo reducirlas sin cambiar de aparato.",
     updated: "2026-09-19",
@@ -898,7 +898,7 @@ const ARTICLES = [
   },
   {
     slug: "aspirador-vertical-cuanta-autonomia-necesitas",
-    img: "/assets/img/blog/aspirador-vertical-cuanta-autonomia-necesitas.jpg",
+    img: "/assets/img/blog/aspirador-vertical-cuanta-autonomia-necesitas.webp",
     title: "Aspirador vertical sin cable: cuánta autonomía necesitas según tu casa",
     dek: "Cómo calcular los minutos reales que necesitas para no quedarte a mitad de faena, según el tamaño y el tipo de tu vivienda.",
     updated: "2026-09-19",
@@ -912,7 +912,7 @@ const ARTICLES = [
   },
   {
     slug: "superficies-donde-no-usar-limpiador-a-vapor",
-    img: "/assets/img/blog/superficies-donde-no-usar-limpiador-a-vapor.jpg",
+    img: "/assets/img/blog/superficies-donde-no-usar-limpiador-a-vapor.webp",
     title: "Limpiador a vapor: en qué superficies no se debe usar",
     dek: "El calor y la humedad del vapor no son inofensivos en todas partes: los materiales que pueden dañarse con un uso habitual.",
     updated: "2026-09-19",
@@ -927,7 +927,7 @@ const ARTICLES = [
   },
   {
     slug: "mantener-filtros-robot-aspirador-que-dure-mas",
-    img: "/assets/img/blog/mantener-filtros-robot-aspirador-que-dure-mas.jpg",
+    img: "/assets/img/blog/mantener-filtros-robot-aspirador-que-dure-mas.webp",
     title: "Cómo mantener los filtros de tu robot aspirador para que dure más",
     dek: "Un mantenimiento sencillo y de pocos minutos que alarga la vida del filtro y evita perder succión antes de tiempo.",
     updated: "2026-09-19",
@@ -942,7 +942,7 @@ const ARTICLES = [
   },
   {
     slug: "mopa-electrica-vs-fregona-tradicional-cuando-compensa-cada-una",
-    img: "/assets/img/blog/mopa-electrica-vs-fregona-tradicional-cuando-compensa-cada-una.jpg",
+    img: "/assets/img/blog/mopa-electrica-vs-fregona-tradicional-cuando-compensa-cada-una.webp",
     title: "Mopa eléctrica vs fregona tradicional: cuál comprar (2026)",
     dek: "Ni la mopa eléctrica sustituye siempre a la fregona ni al revés: en qué casos gana cada sistema de fregado.",
     updated: "2026-09-19",
@@ -957,7 +957,7 @@ const ARTICLES = [
   },
   {
     slug: "cuando-cambiar-mopas-y-panos-de-microfibra",
-    img: "/assets/img/blog/cuando-cambiar-mopas-y-panos-de-microfibra.jpg",
+    img: "/assets/img/blog/cuando-cambiar-mopas-y-panos-de-microfibra.webp",
     title: "Cuándo cambiar las mopas y paños de microfibra (y cómo notarlo)",
     dek: "Señales claras de que un paño o una mopa ya no limpian igual, aunque a simple vista parezcan en buen estado.",
     updated: "2026-09-19",
@@ -971,7 +971,7 @@ const ARTICLES = [
   },
   {
     slug: "por-que-tu-robot-aspirador-ya-no-succiona-igual",
-    img: "/assets/img/blog/por-que-tu-robot-aspirador-ya-no-succiona-igual.jpg",
+    img: "/assets/img/blog/por-que-tu-robot-aspirador-ya-no-succiona-igual.webp",
     title: "Por qué tu robot aspirador ya no succiona igual (y no siempre es la batería)",
     dek: "Antes de pensar en una avería grave, hay varias causas mucho más baratas de resolver que conviene descartar primero.",
     updated: "2026-09-19",
@@ -986,7 +986,7 @@ const ARTICLES = [
   },
   {
     slug: "limpieza-antes-o-despues-de-una-mudanza",
-    img: "/assets/img/blog/limpieza-antes-o-despues-de-una-mudanza.jpg",
+    img: "/assets/img/blog/limpieza-antes-o-despues-de-una-mudanza.webp",
     title: "Limpieza a fondo antes o después de una mudanza: qué priorizar",
     dek: "Con el tiempo limitado que suele haber en una mudanza, estas son las tareas que más se notan y las que se pueden dejar para después.",
     updated: "2026-09-19",
@@ -1001,7 +1001,7 @@ const ARTICLES = [
   },
   {
     slug: "guantes-de-limpieza-cuando-son-realmente-necesarios",
-    img: "/assets/img/blog/guantes-de-limpieza-cuando-son-realmente-necesarios.jpg",
+    img: "/assets/img/blog/guantes-de-limpieza-cuando-son-realmente-necesarios.webp",
     title: "Guantes de limpieza: cuándo son realmente necesarios y cuándo no",
     dek: "No toda tarea de limpieza requiere guantes, pero en algunas es una cuestión de protección real, no de comodidad.",
     updated: "2026-09-19",
@@ -1016,7 +1016,7 @@ const ARTICLES = [
   },
   {
     slug: "como-elegir-orden-de-limpieza-por-habitacion",
-    img: "/assets/img/blog/como-elegir-orden-de-limpieza-por-habitacion.jpg",
+    img: "/assets/img/blog/como-elegir-orden-de-limpieza-por-habitacion.webp",
     title: "En qué orden limpiar la casa para no repetir trabajo",
     dek: "Un orden lógico de arriba a abajo y de seco a húmedo que evita ensuciar de nuevo lo que ya habías limpiado.",
     updated: "2026-09-19",
@@ -1033,7 +1033,7 @@ const ARTICLES = [
     slug: "mejor-robot-aspirador-para-pelo-de-mascota",
     title: "Mejor robot aspirador para pelo de mascota: guía 2026",
     dek: "Qué mirar en un robot aspirador si tienes perro o gato: cepillo antienredos, depósito, filtros y mantenimiento. Criterios claros para acertar.",
-    img: "/assets/img/blog/mejor-robot-aspirador-para-pelo-de-mascota.jpg",
+    img: "/assets/img/blog/mejor-robot-aspirador-para-pelo-de-mascota.webp",
     updated: "2026-09-21",
     body: [
       "Con un perro o un gato en casa, el pelo aparece en el sofá, en las esquinas y bajo las camas a una velocidad que ninguna rutina manual sigue sin esfuerzo. Un <a href='/guias/robots-aspiradores.html'>robot aspirador</a> bien elegido resuelve buena parte del problema, pero no todos los modelos se llevan igual de bien con el pelo. Aquí tienes los criterios que de verdad importan al comprar, sin prometer milagros.",
@@ -1064,7 +1064,7 @@ const ARTICLES = [
     slug: "robot-aspirador-para-piso-pequeno-que-necesitas",
     title: "Robot aspirador para piso pequeño: qué necesitas",
     dek: "En un piso pequeño no hace falta el robot más caro. Te explicamos qué prestaciones importan, cuáles sobran y qué errores evitar al comprar.",
-    img: "/assets/img/blog/robot-aspirador-para-piso-pequeno-que-necesitas.jpg",
+    img: "/assets/img/blog/robot-aspirador-para-piso-pequeno-que-necesitas.webp",
     updated: "2026-09-21",
     body: [
       "En un piso de pocos metros cuadrados, un robot aspirador no necesita las prestaciones de una casa de tres plantas. Precisamente por eso es fácil pagar de más: muchos de los extras de los modelos caros están pensados para superficies grandes. Esta guía te ayuda a separar lo que sí te sirve de lo que es puro marketing en un <a href='/guias/robots-aspiradores.html'>robot aspirador</a> para un piso pequeño.",
@@ -1095,7 +1095,7 @@ const ARTICLES = [
     slug: "robot-aspirador-para-casa-grande-que-necesitas",
     title: "Robot aspirador para casa grande: qué necesitas",
     dek: "Casa grande o de varias plantas: navegación láser, batería, mapas por zonas y base de autovaciado. Qué exigir a un robot aspirador antes de comprarlo.",
-    img: "/assets/img/blog/robot-aspirador-para-casa-grande-que-necesitas.jpg",
+    img: "/assets/img/blog/robot-aspirador-para-casa-grande-que-necesitas.webp",
     updated: "2026-09-21",
     body: [
       "Una casa grande cambia las reglas al elegir un robot aspirador. Lo que en un piso pequeño es un extra prescindible, aquí pasa a ser casi obligatorio: una navegación fiable, una buena gestión de la batería y una forma cómoda de vaciar el depósito. En esta guía repasamos los criterios que importan cuando los metros cuadrados se multiplican, sin recurrir a cifras que no podemos verificar.",
@@ -1129,7 +1129,7 @@ const ARTICLES = [
     slug: "robot-aspirador-con-base-de-autovaciado-merece-la-pena",
     title: "Robot aspirador con base de autovaciado: ¿merece la pena?",
     dek: "Ventajas, costes ocultos y para quién compensa una base de autovaciado. Te ayudamos a decidir si pagar de más o quedarte con un modelo sin base.",
-    img: "/assets/img/blog/robot-aspirador-con-base-de-autovaciado-merece-la-pena.jpg",
+    img: "/assets/img/blog/robot-aspirador-con-base-de-autovaciado-merece-la-pena.webp",
     updated: "2026-09-21",
     body: [
       "La base de autovaciado es una de las mejoras que más se anuncian en los robots aspiradores, y también una de las que más encarecen el conjunto. La idea es sencilla: el robot vuelve a su base y esta aspira el contenido del depósito a una bolsa grande, de modo que no tienes que vaciarlo a mano cada pocos días. Pero ¿compensa para todos los hogares? Depende de tu casa, de tus hábitos y de tus tolerancias.",
@@ -1161,7 +1161,7 @@ const ARTICLES = [
     slug: "robot-aspirador-o-aspiradora-escoba-cual-comprar",
     title: "Robot aspirador o aspiradora escoba: cuál comprar",
     dek: "Robot aspirador o aspiradora escoba sin cable: para qué sirve cada uno, dónde falla y cuándo tiene sentido tener los dos en casa.",
-    img: "/assets/img/blog/robot-aspirador-o-aspiradora-escoba-cual-comprar.jpg",
+    img: "/assets/img/blog/robot-aspirador-o-aspiradora-escoba-cual-comprar.webp",
     updated: "2026-09-21",
     body: [
       "La pregunta aparece constantemente: ¿me compro un robot aspirador o una aspiradora escoba sin cable? Son aparatos que resuelven problemas distintos, aunque ambos aspiran. Uno trabaja solo y mantiene; el otro exige tu tiempo pero llega a todas partes. En este artículo comparamos con criterios prácticos, sin decir que uno sea mejor en términos absolutos, porque depende de tu casa y tus hábitos.",
@@ -1193,7 +1193,7 @@ const ARTICLES = [
     slug: "cuanto-gastar-en-un-robot-aspirador",
     title: "Cuánto gastar en un robot aspirador: rangos de precio",
     dek: "Cuánto dinero destinar a un robot aspirador según tu casa y qué se gana al subir de gama. Rangos orientativos, sin caer en el sobrecoste innecesario.",
-    img: "/assets/img/blog/cuanto-gastar-en-un-robot-aspirador.jpg",
+    img: "/assets/img/blog/cuanto-gastar-en-un-robot-aspirador.webp",
     updated: "2026-09-21",
     body: [
       "Los robots aspiradores cubren un abanico de precios enorme, desde modelos sencillos por poco dinero hasta equipos de gama alta con bases que lavan y secan la mopa. Decidir cuánto gastar no es cuestión de comprar el más caro que puedas pagar, sino de pagar por lo que realmente vas a usar. Aquí tienes un marco práctico, con rangos orientativos basados en lo que muestra nuestra selección, sin cifras exactas porque los precios cambian a menudo.",
@@ -1225,7 +1225,7 @@ const ARTICLES = [
     slug: "errores-al-comprar-un-robot-aspirador",
     title: "Errores al comprar un robot aspirador (y cómo evitarlos)",
     dek: "Los fallos más habituales al elegir un robot aspirador: fijarse solo en los Pa, ignorar recambios o subestimar el espacio. Evítalos con esta lista.",
-    img: "/assets/img/blog/errores-al-comprar-un-robot-aspirador.jpg",
+    img: "/assets/img/blog/errores-al-comprar-un-robot-aspirador.webp",
     updated: "2026-09-21",
     body: [
       "Comprar un robot aspirador parece sencillo hasta que llegas a la ficha técnica y te encuentras con siglas, cifras y funciones de nombre exótico. Es fácil cometer errores que se notan a las pocas semanas: un robot que no llega bajo el sofá, uno que se pierde por la casa o unos recambios imposibles de encontrar. Estos son los fallos más comunes y cómo esquivarlos.",
@@ -1261,7 +1261,7 @@ const ARTICLES = [
     slug: "aspiradora-escoba-sin-cable-para-pelo-de-mascota",
     title: "Aspiradora escoba sin cable para pelo de mascota",
     dek: "Cepillo antienredos, depósito, filtros y autonomía: qué exigir a una aspiradora escoba sin cable si convives con perros o gatos que sueltan pelo.",
-    img: "/assets/img/blog/aspiradora-escoba-sin-cable-para-pelo-de-mascota.jpg",
+    img: "/assets/img/blog/aspiradora-escoba-sin-cable-para-pelo-de-mascota.webp",
     updated: "2026-09-21",
     body: [
       "Si convives con un perro o un gato, sabes que el pelo acaba en el sofá, en la ropa y en los rincones más inesperados. Una aspiradora escoba sin cable es una aliada práctica para esos retoques, porque se saca en segundos y no depende de un enchufe. Pero no todas gestionan igual el pelo: un mal cepillo o un depósito diminuto convierten la tarea en una pelea. Estos son los criterios que conviene mirar.",
@@ -1295,7 +1295,7 @@ const ARTICLES = [
     slug: "mopa-de-vapor-o-fregona-electrica-cual-elegir",
     title: "Mopa de vapor o fregona eléctrica: cuál elegir en 2026",
     dek: "Mopa de vapor o fregona eléctrica: diferencias reales, para qué suelos sirve cada una, mantenimiento y qué esperar antes de gastar tu dinero.",
-    img: "/assets/img/blog/mopa-de-vapor-o-fregona-electrica-cual-elegir.jpg",
+    img: "/assets/img/blog/mopa-de-vapor-o-fregona-electrica-cual-elegir.webp",
     updated: "2026-09-21",
     body: [
       "Ambas prometen un suelo más limpio con menos esfuerzo, pero funcionan de manera distinta y no sirven igual para todos los suelos. La mopa de vapor usa agua caliente en forma de vapor; la fregona eléctrica, un cabezal con motor que gira o vibra sobre un paño húmedo. Elegir bien depende de tu suelo, de tu paciencia con el mantenimiento y de qué esperas del aparato.",
@@ -1327,7 +1327,7 @@ const ARTICLES = [
     slug: "mejor-fregona-y-cubo-para-piso-pequeno",
     title: "Mejor fregona y cubo para piso pequeño",
     dek: "Cubo compacto, escurrido cómodo y microfibra: los criterios para elegir fregona y cubo en un piso pequeño donde cada centímetro de almacenaje cuenta.",
-    img: "/assets/img/blog/mejor-fregona-y-cubo-para-piso-pequeno.jpg",
+    img: "/assets/img/blog/mejor-fregona-y-cubo-para-piso-pequeno.webp",
     updated: "2026-09-21",
     body: [
       "En un piso pequeño, la fregona y el cubo suelen ser los utensilios más incómodos de guardar: ocupan sitio, gotean y acaban en un rincón donde estorban. Elegir bien no va de comprar el modelo más sofisticado, sino de encontrar el equilibrio entre tamaño, comodidad y eficacia. Estos son los criterios que cuentan cuando el espacio es limitado.",
@@ -1361,7 +1361,7 @@ const ARTICLES = [
     slug: "limpiador-a-vapor-que-necesitas-antes-de-comprarlo",
     title: "Limpiador a vapor: qué mirar antes de comprarlo",
     dek: "Superficies, tamaño del depósito, cable y accesorios: la lista de comprobaciones antes de comprar un limpiador a vapor para el hogar sin arrepentirte.",
-    img: "/assets/img/blog/limpiador-a-vapor-que-necesitas-antes-de-comprarlo.jpg",
+    img: "/assets/img/blog/limpiador-a-vapor-que-necesitas-antes-de-comprarlo.webp",
     updated: "2026-09-21",
     body: [
       "Un limpiador a vapor promete limpiar sin productos químicos y llegar a zonas difíciles, y en las manos adecuadas es una herramienta muy práctica. Pero no es un aparato universal, y comprarlo sin comprobar unas cuantas cosas es la vía rápida a que acabe en el fondo de un armario. Esta lista te ayuda a decidir si lo necesitas y qué tipo te conviene.",
@@ -1395,7 +1395,7 @@ const ARTICLES = [
     slug: "desinfectante-multiusos-o-limpiador-neutro-cual-elegir",
     title: "Desinfectante multiusos o limpiador neutro: cuál elegir",
     dek: "Cuándo basta un limpiador de pH neutro y cuándo compensa un desinfectante multiusos. Cómo elegir por superficie, sin gastar de más ni mezclar productos.",
-    img: "/assets/img/blog/desinfectante-multiusos-o-limpiador-neutro-cual-elegir.jpg",
+    img: "/assets/img/blog/desinfectante-multiusos-o-limpiador-neutro-cual-elegir.webp",
     updated: "2026-09-21",
     body: [
       "Ante un estante de supermercado lleno de botes, es fácil acabar comprando de todo. Pero limpiar y desinfectar no son lo mismo, y muchas superficies del hogar solo necesitan limpieza. Un limpiador neutro y un desinfectante multiusos sirven para cosas distintas; entender la diferencia ahorra dinero y protege tus superficies.",
@@ -1427,7 +1427,7 @@ const ARTICLES = [
     slug: "aspirador-de-mano-para-coche-como-elegir",
     title: "Aspirador de mano para coche: cómo elegir",
     dek: "Autonomía, accesorios, filtro y potencia real: los criterios para elegir un aspirador de mano para el coche que de verdad limpie asientos y maletero.",
-    img: "/assets/img/blog/aspirador-de-mano-para-coche-como-elegir.jpg",
+    img: "/assets/img/blog/aspirador-de-mano-para-coche-como-elegir.webp",
     updated: "2026-09-21",
     body: [
       "Un aspirador de mano para el coche parece un producto sencillo, pero hay diferencias importantes entre un juguete que se queda sin batería a los cinco minutos y un aparato que de verdad limpia asientos, alfombrillas y maletero. Con tantas cifras de potencia en los anuncios, conviene saber qué mirar y qué ignorar.",
@@ -1461,7 +1461,7 @@ const ARTICLES = [
     slug: "guantes-de-nitrilo-o-goma-para-limpiar-cual-elegir",
     title: "Guantes de nitrilo o de goma: cuál elegir",
     dek: "Nitrilo, látex o goma, desechables o reutilizables: cuál te conviene según la tarea, tu piel y tu presupuesto. Un criterio práctico para comprar bien.",
-    img: "/assets/img/blog/guantes-de-nitrilo-o-goma-para-limpiar-cual-elegir.jpg",
+    img: "/assets/img/blog/guantes-de-nitrilo-o-goma-para-limpiar-cual-elegir.webp",
     updated: "2026-09-21",
     body: [
       "Unos guantes de limpieza parecen un producto trivial hasta que te escuecen las manos, se rompen a los cinco minutos o te resultan imposibles de manejar. Elegir bien cuesta poco y evita molestias. La decisión se reduce a tres preguntas: qué material, desechable o reutilizable, y para qué tarea. Aquí tienes cómo responderlas.",
@@ -1493,7 +1493,7 @@ const ARTICLES = [
     slug: "kit-de-limpieza-para-primer-piso-que-comprar",
     title: "Kit de limpieza para tu primer piso: qué comprar",
     dek: "Qué productos y utensilios de limpieza necesitas de verdad al independizarte y cuáles pueden esperar. Lista realista y ordenada por prioridades.",
-    img: "/assets/img/blog/kit-de-limpieza-para-primer-piso-que-comprar.jpg",
+    img: "/assets/img/blog/kit-de-limpieza-para-primer-piso-que-comprar.webp",
     updated: "2026-09-21",
     body: [
       "Al independizarte, lo primero que compras suele ser lo más vistoso, y la limpieza queda para el último momento. Después llega la primera semana y descubres que no tienes fregona, ni un mal producto para el baño. Esta lista te ayuda a montar un kit razonable sin gastar de más, con prioridades claras: qué comprar ya, qué puede esperar y qué quizá no necesites nunca.",
