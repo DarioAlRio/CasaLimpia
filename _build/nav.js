@@ -11,6 +11,7 @@ const SITE = {
   domain: "https://casa-limpia-kappa.vercel.app",
   locale: "es_ES",
   lang: "es",
+  email: "contacto.guiasdecompra@gmail.com",
   // Store ID real, creado en el panel de afiliados.
   amazonTag: "casalimpia01-21",
   amazonDisclaimer:
