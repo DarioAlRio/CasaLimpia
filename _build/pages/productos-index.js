@@ -1,3 +1,16 @@
+// Etiquetas cortas para los botones de filtro.
+const SHORT_LABELS = {
+  "robots-aspiradores": "Robots aspiradores",
+  "aspiradores-verticales-sin-cable": "Aspiradores sin cable",
+  "mopas-electricas": "Mopas eléctricas",
+  "limpiadores-a-vapor": "Vaporetas",
+  "recambios-y-filtros-para-robots-aspiradores": "Recambios robot",
+  "fregonas-y-cubos-con-escurridor": "Fregonas",
+  "limpiadores-multiusos-y-desinfectantes": "Limpiadores",
+  "guantes-y-utensilios-de-limpieza": "Utensilios",
+  "organizadores-de-productos-de-limpieza": "Organizadores",
+  "aspiradores-de-mano-y-para-coche": "Aspiradores de mano"
+};
 "use strict";
 
 const { SITE } = require("../nav");
@@ -11,7 +24,7 @@ function productosIndex() {
   );
 
   const filters = GUIDES.map(
-    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(g.title)} (${g.products.length})</button>`
+    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(SHORT_LABELS[g.slug] || g.title)} (${g.products.length})</button>`
   ).join("\n        ");
 
   const html = `
