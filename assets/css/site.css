@@ -412,7 +412,7 @@ table { border-collapse: collapse; width: 100%; }
 }
 .cookiebar-inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 18px 24px; flex-wrap: wrap; }
 .cookiebar p { margin: 0; font-size: 0.9rem; max-width: 62ch; }
-.cookiebar a { color: var(--color-accent); text-decoration: underline; }
+.cookiebar a { color: inherit; text-decoration: underline; font-weight: 600; }
 .cookiebar-actions { display: flex; gap: 10px; flex-shrink: 0; }
 .cookiebar .btn-ghost { border-color: rgba(255,255,255,0.35); color: var(--color-bg); }
 
@@ -551,4 +551,4 @@ table { border-collapse: collapse; width: 100%; }
 .card:hover { transform: translateY(-4px); }
 .cta-band { background: linear-gradient(120deg, var(--color-brand), var(--color-accent-dark)); border-radius: var(--radius-lg); margin: 0 16px; }
 .site-footer { border-top: 0; background: color-mix(in srgb, var(--color-brand) 8%, var(--color-bg)); border-radius: 36px 36px 0 0; padding-top: 24px; }
-:root { --color-bg: #f2fbfa; }
+@media (prefers-color-scheme: light) { :root { --color-bg: #f2fbfa; } }
