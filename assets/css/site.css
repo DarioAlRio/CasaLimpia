@@ -578,3 +578,8 @@ table { border-collapse: collapse; width: 100%; }
 .cta-band { background: linear-gradient(120deg, var(--color-brand), var(--color-accent-dark)); border-radius: var(--radius-lg); margin: 0 16px; }
 .site-footer { border-top: 0; background: color-mix(in srgb, var(--color-brand) 8%, var(--color-bg)); border-radius: 36px 36px 0 0; padding-top: 24px; }
 @media (prefers-color-scheme: light) { :root { --color-bg: #f2fbfa; } }
+
+/* sticky-footer-gap: la barra fija de producto no tapa el final del pie */
+body:has(.seo-sticky) { padding-bottom: 76px; }
+body:has(.seo-sticky) .seo-sticky-space { display: none; }
+@media (max-width: 640px) { body:has(.seo-sticky) { padding-bottom: 96px; } }
