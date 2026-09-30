@@ -20,6 +20,7 @@ trazabilidad y buena práctica, no porque la licencia lo exija.
 | `guantes-y-utensilios-de-limpieza.jpg` | https://www.pexels.com/photo/cleaning-with-yellow-rubber-gloves-and-spray-bottle-28576625/ |
 | `organizadores-de-productos-de-limpieza.jpg` | https://www.pexels.com/photo/kitchen-cleaning-set-high-angle-view-10573262/ |
 | `aspiradores-de-mano-y-para-coche.jpg` | https://www.pexels.com/photo/efficient-sofa-cleaning-with-handheld-vacuum-30238384/ |
+| `mosquitas-de-la-fruta.jpg` | https://www.pexels.com/photo/fresh-fruits-in-wire-basket-on-kitchen-counter-29268308/ |
 
 ## Blog (`assets/img/blog/`)
 

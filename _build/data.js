@@ -805,6 +805,84 @@ const GUIDES = [
       { asin: "B0FL7VMG1X", title: "Cecotec Aspiradora de Mano sin Cable Conga Rockstar 25,2V Animal Hand", note: "Aspira sólidos y líquidos (Wet&Dry) con 200 W y hasta 20 kPa; motor brushless. Solo 180 valoraciones.", img: "https://m.media-amazon.com/images/I/713D+JbUJeL._AC_UL320_.jpg", price: "62,90", rating: "4,0★" },
     ],
   },
+  {
+    slug: "trampas-para-mosquitas-de-la-fruta",
+    title: "Cómo eliminar mosquitas de la fruta: trampas que funcionan",
+    query: "trampa mosca de la fruta",
+    dek: "Cómo eliminar las mosquitas de la fruta en casa: foco, trampa casera de vinagre, trampas con cebo, adhesivas amarillas o lámpara. Elige la tuya.",
+    img: "/assets/img/guias/mosquitas-de-la-fruta.webp",
+    updated: "2026-09-30",
+    intro: [
+      "Si te preguntas cómo eliminar las mosquitas de la fruta, la respuesta tiene dos partes: quitarles lo que las atrae y atrapar a las que ya vuelan por la cocina. Las moscas de la fruta (Drosophila) aparecen sobre todo a finales de verano y en otoño, cuando la fruta madura más deprisa, y una sola hembra pone cientos de huevos en fruta pasada, restos del cubo de basura o el desagüe del fregadero.",
+      "En esta guía explicamos qué funciona de verdad contra las mosquitas en casa: la trampa casera con vinagre de manzana, las trampas para moscas de la fruta que se venden hechas, las trampas adhesivas amarillas (muy útiles cuando las mosquitas salen de las plantas) y cuándo compensa una lámpara antimosquitos eléctrica.",
+    ],
+    sections: [
+      {
+        heading: "Por qué hay mosquitas de la fruta en la cocina",
+        body: [
+          "Las mosquitas de la fruta buscan azúcares en fermentación: plátanos y manzanas muy maduros, restos de zumo, vino o cerveza en vasos y botellas, el cubo de la basura orgánica y la materia que se acumula en el sifón del fregadero. Con calor completan su ciclo de huevo a adulto en poco más de una semana, por eso parece que se multiplican de un día para otro.",
+          "Antes de comprar nada, revisa esos focos: guarda la fruta madura en la nevera, vacía y aclara el cubo orgánico cada día, enjuaga botellas y latas antes del reciclaje y echa agua muy caliente por el desagüe. Sin foco de cría, cualquier trampa funciona mucho mejor.",
+        ],
+      },
+      {
+        heading: "Trampa casera para mosquitas: vinagre de manzana y jabón",
+        body: [
+          "La trampa casera más conocida es un vaso con un dedo de vinagre de manzana y una gota de lavavajillas: el vinagre las atrae y el jabón rompe la tensión superficial, de modo que se hunden al posarse. Tapar el vaso con film transparente y hacer unos agujeros pequeños mejora el resultado, porque entran con facilidad y les cuesta salir.",
+          "Funciona bien con pocas mosquitas, pero hay que renovar el líquido cada pocos días y no queda muy discreta a la vista. Si la cocina tiene muchas o quieres algo que dure semanas sin mantenimiento, una trampa para moscas de la fruta comprada suele ser más cómoda.",
+        ],
+      },
+      {
+        heading: "Trampas para moscas de la fruta: cebo, adhesivas o eléctricas",
+        body: [
+          "Las trampas con cebo para moscas de la fruta usan un atrayente dentro de un recipiente del que no pueden salir; son las más indicadas para la encimera y el frutero. Mira cuánto dura el cebo según el fabricante y si el formato se puede dejar a la vista sin que llame la atención.",
+          "Las trampas adhesivas amarillas atraen por el color y sirven sobre todo para las mosquitas de las plantas (mosca del sustrato o mosquito del mantillo), que se confunden a menudo con las de la fruta. Se clavan en la maceta o se cuelgan cerca, y no llevan insecticida.",
+          "Una lámpara antimosquitos eléctrica con luz UV atrae mosquitos, moscas y polillas en estancias grandes o terrazas. Contra la mosca de la fruta es menos específica que una trampa con cebo, así que compensa sobre todo si también tienes mosquitos o moscas comunes.",
+        ],
+      },
+      {
+        heading: "Mosquitas en las plantas: no son las mismas",
+        body: [
+          "Si las mosquitas salen de las macetas y no del frutero, probablemente sean moscas del sustrato: sus larvas viven en la tierra húmeda. Además de las trampas amarillas, deja secar la capa superior de tierra entre riegos y retira las hojas caídas; el exceso de riego es la causa más habitual.",
+        ],
+      },
+    ],
+    checklist: [
+      "Localizar y eliminar el foco: fruta madura, cubo orgánico, botellas sin aclarar y desagüe del fregadero",
+      "Trampa con cebo para la cocina y el frutero; renovar el cebo cuando indique el fabricante",
+      "Trampas adhesivas amarillas si las mosquitas salen de las plantas, no de la fruta",
+      "Lámpara antimosquitos solo si además hay mosquitos o moscas comunes en estancias grandes",
+      "Preferir opciones sin insecticida cerca de alimentos, niños y mascotas",
+    ],
+    faq: [
+      {
+        q: "¿Cómo eliminar las mosquitas de la fruta rápido?",
+        a: "Retira primero la fruta madura y vacía el cubo orgánico, echa agua muy caliente por el desagüe y coloca una trampa con cebo o una trampa casera de vinagre de manzana con una gota de jabón junto al frutero. En pocos días debería bajar mucho el número.",
+      },
+      {
+        q: "¿Por qué tengo mosquitas en casa aunque no haya fruta?",
+        a: "Pueden criar en restos de zumo o vino, en el cubo de basura, en el sifón del fregadero o en la tierra húmeda de las macetas. Si salen de las plantas, suelen ser moscas del sustrato y se controlan mejor con trampas adhesivas amarillas y regando menos.",
+      },
+      {
+        q: "¿Funciona la trampa casera con vinagre de manzana?",
+        a: "Sí, con pocas mosquitas funciona bien si añades una gota de lavavajillas y tapas el vaso con film agujereado. Hay que cambiar el vinagre cada pocos días; las trampas comerciales duran más sin mantenimiento.",
+      },
+      {
+        q: "¿Las lámparas antimosquitos sirven contra la mosca de la fruta?",
+        a: "Atrapan algunas, pero están pensadas sobre todo para mosquitos y moscas comunes. Para la mosca de la fruta en la cocina es más eficaz una trampa con cebo cerca del foco.",
+      },
+    ],
+    products: [
+      { asin: "B0DD4JYJBH", title: "Patronus Trampa para Moscas de la Fruta para Cocina, 2 Trampas", note: "Pack de 2 trampas pensadas para la cocina y el frutero.", img: "https://m.media-amazon.com/images/I/81qPpa6hurL._AC_UL320_.jpg", price: "23,68", rating: "4,5★" },
+      { asin: "B0D6B1G25M", title: "Trampa para Moscas de la Fruta Made in UE, Antimosquitos Interior Cocina", note: "Trampa de interior para la cocina que el fabricante presenta como remedio natural.", img: "https://m.media-amazon.com/images/I/61r-rcBXK1L._AC_UL320_.jpg", price: "17,99", rating: "4,1★" },
+      { asin: "B0HCPFFRLS", title: "COM-FOUR Pack de 2 Trampas para Moscas de la Fruta, Cocina y Hogar", note: "Dos trampas para moscas de la fruta para la cocina y el resto de la casa.", img: "https://m.media-amazon.com/images/I/714xp7OJXyL._AC_UL320_.jpg", price: "8,99", rating: "4,0★" },
+      { asin: "B09V71GHV8", title: "GeeRic 40 Piezas Trampa Atrapa Moscas Adhesiva Amarilla", note: "40 trampas adhesivas amarillas para plantas y zonas con mosquitas.", img: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_UL320_.jpg", price: "6,99", rating: "4,4★" },
+      { asin: "B0BD9759HW", title: "PIC Trampas Cromáticas Amarillas 60x, Adhesivas para Moscas del Sustrato", note: "Trampas amarillas pensadas para la mosca del sustrato de las macetas.", img: "https://m.media-amazon.com/images/I/81+9yrXS1bL._AC_UL320_.jpg", price: "8,99", rating: "4,4★" },
+      { asin: "B0FL62NQ15", title: "Trampas Adhesivas para Plantas 26 Unidades, Doble Cara, Interior y Exterior", note: "Trampas adhesivas de doble cara para interior y exterior.", img: "https://m.media-amazon.com/images/I/71qLqsgaJ8L._AC_UL320_.jpg", price: "5,90", rating: "4,3★" },
+      { asin: "B0DNTFMWWR", title: "Atrapa Moscas Amarillas Cromáticas 80 Uds, Adhesivas para Plantas de Interior", note: "Pack grande de 80 trampas amarillas para plantas de interior.", img: "https://m.media-amazon.com/images/I/61LA59par6L._AC_UL320_.jpg", price: "8,99", rating: "4,5★" },
+      { asin: "B0GSQWSSTG", title: "FRAXINUS Lámpara Matamoscas Antimosquitos Eléctrica 2x6,5W UVA-LED", note: "Lámpara antimosquitos con luz UVA-LED para mosquitos, moscas y polillas.", img: "https://m.media-amazon.com/images/I/71+1tXy7wdL._AC_UL320_.jpg", price: "37,98", rating: "4,6★" },
+      { asin: "B0DXV5PJS1", title: "YISSVIC Lámpara Antimosquitos Eléctrica 4200V 15W UV, IPX4", note: "Lámpara antimosquitos UV con protección IPX4 según la ficha, apta también para exterior.", img: "https://m.media-amazon.com/images/I/71mjcSucwUL._AC_UL320_.jpg", price: "26,99", rating: "4,3★" },
+    ],
+  },
 ];
 
 // Artículos de blog: notas más generales, no fichas de producto ni guías de
