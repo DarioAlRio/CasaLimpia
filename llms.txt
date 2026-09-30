@@ -1,0 +1,36 @@
+# CasaLimpia
+
+> Guías de compra y comparativas independientes de robots aspiradores, mopas eléctricas, limpiadores a vapor y aspiradores verticales para mantener tu casa limpia sin gastar de más.
+
+CasaLimpia publica guías de compra y rankings en español. Los productos se seleccionan entre los más vendidos de Amazon.es y se ordenan por valoración media y número de opiniones de compradores. No se publican precios fijos. Metodología completa: https://casa-limpia-kappa.vercel.app/sobre-nosotros/
+
+## Rankings
+- [Mejores robot aspirador](https://casa-limpia-kappa.vercel.app/mejores/robots-aspiradores.html): Ranking 2026 de robots aspiradores: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores aspirador vertical sin cable](https://casa-limpia-kappa.vercel.app/mejores/aspiradores-verticales-sin-cable.html): Ranking 2026 de aspiradores verticales sin cable: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores mopa eléctrica](https://casa-limpia-kappa.vercel.app/mejores/mopas-electricas.html): Ranking 2026 de mopas eléctricas: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores limpiador a vapor](https://casa-limpia-kappa.vercel.app/mejores/limpiadores-a-vapor.html): Ranking 2026 de limpiadores a vapor: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores recambios y filtros para tu robot aspirador](https://casa-limpia-kappa.vercel.app/mejores/recambios-y-filtros-para-robots-aspiradores.html): Ranking 2026 de kits de recambios para robot aspirador: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores fregona y cubo con escurridor](https://casa-limpia-kappa.vercel.app/mejores/fregonas-y-cubos-con-escurridor.html): Ranking 2026 de fregonas y cubos con escurridor: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores limpiador multiusos y desinfectante](https://casa-limpia-kappa.vercel.app/mejores/limpiadores-multiusos-y-desinfectantes.html): Ranking 2026 de limpiadores multiusos y desinfectantes: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores guantes y utensilios de limpieza](https://casa-limpia-kappa.vercel.app/mejores/guantes-y-utensilios-de-limpieza.html): Ranking 2026 de guantes y utensilios de limpieza: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores organizadores de productos de limpieza](https://casa-limpia-kappa.vercel.app/mejores/organizadores-de-productos-de-limpieza.html): Ranking 2026 de organizadores de productos de limpieza: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores aspirador de mano y para coche](https://casa-limpia-kappa.vercel.app/mejores/aspiradores-de-mano-y-para-coche.html): Ranking 2026 de aspiradores de mano: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores cómo eliminar mosquitas de la fruta: trampas que funcionan](https://casa-limpia-kappa.vercel.app/mejores/trampas-para-mosquitas-de-la-fruta.html): Ranking 2026 de trampas para mosquitas de la fruta: las 9 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+
+## Guías de compra
+- [Cómo elegir un robot aspirador](https://casa-limpia-kappa.vercel.app/guias/robots-aspiradores.html)
+- [Cómo elegir un aspirador vertical sin cable](https://casa-limpia-kappa.vercel.app/guias/aspiradores-verticales-sin-cable.html)
+- [Cómo elegir una mopa eléctrica](https://casa-limpia-kappa.vercel.app/guias/mopas-electricas.html)
+- [Cómo elegir un limpiador a vapor](https://casa-limpia-kappa.vercel.app/guias/limpiadores-a-vapor.html)
+- [Cómo elegir recambios y filtros para tu robot aspirador](https://casa-limpia-kappa.vercel.app/guias/recambios-y-filtros-para-robots-aspiradores.html)
+- [Cómo elegir una fregona y cubo con escurridor](https://casa-limpia-kappa.vercel.app/guias/fregonas-y-cubos-con-escurridor.html)
+- [Cómo elegir un limpiador multiusos y desinfectante](https://casa-limpia-kappa.vercel.app/guias/limpiadores-multiusos-y-desinfectantes.html)
+- [Cómo elegir guantes y utensilios de limpieza](https://casa-limpia-kappa.vercel.app/guias/guantes-y-utensilios-de-limpieza.html)
+- [Cómo elegir organizadores de productos de limpieza](https://casa-limpia-kappa.vercel.app/guias/organizadores-de-productos-de-limpieza.html)
+- [Cómo elegir un aspirador de mano y para coche](https://casa-limpia-kappa.vercel.app/guias/aspiradores-de-mano-y-para-coche.html)
+- [Cómo eliminar mosquitas de la fruta: trampas que funcionan](https://casa-limpia-kappa.vercel.app/guias/trampas-para-mosquitas-de-la-fruta.html)
+
+## Sobre el sitio
+- [Sobre nosotros y metodología](https://casa-limpia-kappa.vercel.app/sobre-nosotros/)
+- [Contacto](https://casa-limpia-kappa.vercel.app/contacto/)
+- [Política de afiliación](https://casa-limpia-kappa.vercel.app/legal/afiliacion.html)

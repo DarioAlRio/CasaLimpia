@@ -1,0 +1,206 @@
+{
+  "B0H2PZJ1T4": {
+    "resumen": ["El Redkey E6 junta en un robot de entrada cifras que hace dos años eran de gama media: 7000 Pa de succión y hasta 170 minutos de autonomía. Sobre el papel, suficiente para un piso grande en una sola pasada.", "La letra pequeña está en la 'navegación dinámica': no es un láser LiDAR, así que recorre la casa de forma menos metódica y sin mapas precisos por habitaciones."],
+    "pros": ["Succión alta para su precio, útil con pelo de mascota", "Autonomía larga: termina pisos grandes sin volver a la base", "Control desde app y mando a distancia"],
+    "contras": ["Sin LiDAR: patrones de limpieza menos ordenados y sin zonas prohibidas precisas", "Marca con poca trayectoria: cepillos y filtros de recambio menos fáciles de encontrar", "La potencia máxima gasta batería y hace más ruido"],
+    "para": "pisos sin demasiados obstáculos donde se busca potencia a bajo precio."
+  },
+  "B0GSVGTK23": {
+    "resumen": ["El Vexilar W8 pone el acento en el cepillo antienredos, que es el problema real de muchos robots baratos: pelo largo enrollado que obliga a desmontar el rodillo cada semana. Con 5000 Pa de succión, se queda en un punto razonable.", "Es un robot para mantener limpio a diario, no para limpiezas profundas."],
+    "pros": ["Cepillo antienredos, clave con pelo largo o mascotas", "Precio de entrada", "Autonomía amplia según el fabricante"],
+    "contras": ["Marca poco conocida: soporte y recambios por comprobar", "Navegación sin mapeo láser", "Sin estación de vaciado automático"],
+    "para": "hogares con pelo largo que buscan un robot sin mantenimiento constante del cepillo."
+  },
+  "B0CRZ5JK8C": {
+    "resumen": ["Un robot básico que aspira y pasa la mopa en húmedo, con batería de 2400 mAh y modo manual. Es de lo más barato que puedes comprar con función de fregado, y su techo es claro: mantenimiento ligero en pisos pequeños.", "La 'mopa' aquí es un paño que arrastra, no un fregado con presión: sirve para polvo fino, no para manchas pegadas."],
+    "pros": ["Aspira y friega en seco y en húmedo", "Precio muy bajo", "Temporizador para programar la limpieza"],
+    "contras": ["Batería pequeña: pisos pequeños o por zonas", "Succión y navegación básicas", "El fregado es un paño pasivo, no elimina manchas"],
+    "para": "estudios o pisos pequeños con suelo duro y poco presupuesto."
+  },
+  "B0H4ZBZ852": {
+    "resumen": ["Una aspiradora escoba sin cable de marca blanca que ha acumulado un buen volumen de opiniones positivas. Su argumento es ser ligera y potente para el precio; la ficha da pocos datos técnicos, y eso es lo primero que miraríamos antes de comprar.", "Para un piso de tamaño medio y uso diario rápido, este tipo de aspiradoras funciona; para alfombras gruesas, se queda corta."],
+    "pros": ["Ligera, cómoda para pasadas rápidas diarias", "Precio de entrada", "Buen volumen de valoraciones de compradores"],
+    "contras": ["Ficha con pocos datos: comprueba autonomía y capacidad del depósito", "Marca sin servicio técnico reconocido en España", "Batería de recambio difícil de encontrar a futuro"],
+    "para": "pasadas rápidas diarias en pisos pequeños o medianos."
+  },
+  "B0H2Q6G2MK": {
+    "resumen": ["Otra escoba sin cable genérica, que se convierte en aspirador de mano. Este formato 2 en 1 es muy práctico: el mismo aparato sirve para el suelo, el sofá y el coche.", "Como en toda marca blanca, la clave es la batería: pregunta o revisa en opiniones cuánto dura realmente en potencia máxima."],
+    "pros": ["Convertible en aspirador de mano", "Precio muy asequible", "Uso sin cable en toda la casa"],
+    "contras": ["Autonomía real en máxima potencia probablemente muy inferior a la anunciada", "Depósito pequeño en este formato", "Sin respaldo de marca conocida"],
+    "para": "complemento para limpiezas rápidas o casas pequeñas."
+  },
+  "B0FL7KRZR9": {
+    "resumen": ["La Conga Rockstar de Cecotec es la escoba sin cable 'de marca' más accesible del mercado español. Su gran ventaja frente a las genéricas no es tanto la potencia como el servicio técnico en España y la disponibilidad de baterías y accesorios.", "La gama Rockstar tiene muchas versiones; la X-Treme es de las de entrada, pensada para uso doméstico estándar."],
+    "pros": ["Servicio técnico y recambios en España", "Convertible en aspirador de mano", "Precio muy contenido para una marca conocida"],
+    "contras": ["Potencia modesta frente a Dyson o Rowenta", "Muchas versiones parecidas: asegúrate de qué incluye esta", "Depósito y autonomía ajustados para casas grandes"],
+    "para": "quien quiere su primera escoba sin cable de una marca con soporte en España."
+  },
+  "B0CN5JW3HQ": {
+    "resumen": ["La Dyson V8 Absolute es el modelo con el que se comparan todas las demás escobas sin cable. No es la más nueva de Dyson, pero sí la más equilibrada en precio: 115 AW de succión, 40 minutos de autonomía y la fiabilidad del sistema ciclónico.", "Su gran ventaja a largo plazo: baterías, cepillos y filtros originales se encuentran fácilmente años después."],
+    "pros": ["Sistema ciclónico probado, succión constante", "Recambios originales muy fáciles de encontrar", "Varios cabezales incluidos para suelos y tapicería"],
+    "contras": ["Precio alto frente a la competencia", "Gatillo que hay que mantener pulsado (en esta generación)", "Depósito pequeño comparado con modelos más recientes"],
+    "para": "quien quiere una escoba sin cable de referencia y larga vida."
+  },
+  "B0H6P36DZ7": {
+    "resumen": ["Una mopa eléctrica giratoria inalámbrica: dos discos que giran y frotan el suelo mientras avanzas. Frente a una fregona, el esfuerzo es mucho menor y la presión constante saca mejor las manchas secas.", "Su enorme volumen de opiniones sugiere que el concepto convence; aun así, conviene revisar la autonomía y el tamaño del depósito para tu superficie."],
+    "pros": ["Discos giratorios que frotan sin esfuerzo", "Inalámbrica, sin enchufe durante la limpieza", "Almohadillas de repuesto incluidas"],
+    "contras": ["No aspira: hay que barrer o aspirar antes", "Peso mayor que una mopa normal", "Tiende a 'tirar' en suelos muy lisos hasta que coges el truco"],
+    "para": "suelos duros grandes y personas que quieren menos esfuerzo al fregar."
+  },
+  "B09D7NR6VC": {
+    "resumen": ["La mopa con pulverizador es la alternativa ligera a la fregona: rocías el agua o el producto justo delante y pasas el paño. No hay cubo, no hay agua sucia y la limpieza diaria se hace en minutos.", "Tres almohadillas lavables incluidas: una limpiando, otra secándose, otra en reserva."],
+    "pros": ["Sin cubo: limpieza rápida del día a día", "Tres almohadillas lavables incluidas", "Muy barata y ligera"],
+    "contras": ["No sustituye a un fregado a fondo con manchas pegadas", "El depósito se rellena a menudo en superficies grandes", "Mecanismo de pulverizado sencillo que puede fallar con el tiempo"],
+    "para": "limpiezas rápidas diarias en cocinas y pisos pequeños."
+  },
+  "B07N1SY964": {
+    "resumen": ["La versión de Amazon Basics de la mopa con aerosol: lo esencial, sin extras, a un precio mínimo. Un paño de microfibra reutilizable y depósito rellenable.", "Compra lógica si quieres probar el concepto antes de gastar más."],
+    "pros": ["Precio mínimo", "Paño de microfibra lavable", "Ligera y fácil de guardar"],
+    "contras": ["Solo un paño incluido", "Construcción básica", "Depósito pequeño"],
+    "para": "quien quiere probar una mopa con pulverizador sin gastar."
+  },
+  "B0HHJ8F3ZC": {
+    "resumen": ["Un limpiador de vapor que presume de calentar en 10 segundos, y eso cambia el uso: con los modelos de caldera grande esperas varios minutos antes de empezar. Pantalla táctil para elegir el nivel de vapor.", "El vapor desinfecta y despega grasa sin químicos, pero no todos los suelos lo toleran: parqué y laminado sin sellar son los que más sufren."],
+    "pros": ["Calentamiento casi instantáneo", "Limpieza sin productos químicos", "Selección de nivel de vapor"],
+    "contras": ["Depósito pequeño en los modelos de calentamiento rápido", "Ojo con parqué y laminados: consulta al fabricante del suelo", "Marca genérica: accesorios de recambio por comprobar"],
+    "para": "limpiezas puntuales de cocina, baño y juntas."
+  },
+  "B08KXVXC82": {
+    "resumen": ["Esto no es un limpiador de vapor al uso, es un limpiatapicerías de inyección-extracción: rocía agua con detergente y la aspira de nuevo con la suciedad. Para sofás, colchones, alfombras y asientos de coche es mucho más eficaz que el vapor.", "Pocas valoraciones, pero Medion es una marca con recorrido en electrodomésticos."],
+    "pros": ["Limpia en profundidad tapicerías y alfombras", "750 W de potencia de aspiración", "Marca con trayectoria"],
+    "contras": ["No sirve para suelos duros ni azulejos", "Deja la tapicería húmeda: necesita tiempo de secado", "Pocas opiniones publicadas"],
+    "para": "hogares con niños, mascotas o sofás de tela."
+  },
+  "B07YDRRMHG": {
+    "resumen": ["El Solac es un limpiador de vapor de mano, compacto, con 1050 W y nueve accesorios. Es el formato más versátil para lo que el vapor hace mejor: juntas de azulejos, grifos, vitrocerámica y rincones con grasa.", "El depósito de 350 ml da para una sesión de baño o cocina, no para fregar toda la casa."],
+    "pros": ["Nueve accesorios para distintos usos", "Compacto y fácil de guardar", "Solac tiene servicio técnico en España"],
+    "contras": ["Depósito pequeño, hay que rellenar a menudo", "No es para suelos de toda la casa", "Hay que esperar a que se enfríe para rellenarlo"],
+    "para": "limpieza a fondo de baños, cocinas y juntas."
+  },
+  "B0H9F5VD3G": {
+    "resumen": ["Un kit de recambios completo para el Xiaomi S40 Pro: cepillos principales, laterales, filtros y cepillo de limpieza. Comprar recambios compatibles en kit sale mucho más barato que los originales sueltos.", "Lo importante con compatibles es confirmar el modelo exacto: una diferencia de letra en el nombre del robot puede cambiar el encaje."],
+    "pros": ["Kit completo para meses de uso", "Mucho más barato que recambios originales", "Incluye cepillo de limpieza"],
+    "contras": ["Compatible, no original: calidad de filtros variable", "Verifica tu modelo exacto antes de comprar", "Los filtros compatibles pueden retener menos polvo fino"],
+    "para": "propietarios del Xiaomi S40 Pro que quieren mantenerlo sin pagar originales."
+  },
+  "B0GT5CVVY8": {
+    "resumen": ["Cuatro filtros HEPA compatibles con los Roborock Q10 S5 y S5+. El filtro es la pieza que más se degrada y la que más afecta a la succión y al polvo que devuelve al aire.", "Cambiarlo cada dos o tres meses mantiene el robot rindiendo como el primer día."],
+    "pros": ["Pack de cuatro: casi un año de recambios", "Filtro HEPA para polvo fino", "Precio bajo frente al original"],
+    "contras": ["Solo sirve para los modelos indicados", "Calidad de filtrado de compatible, no certificada por Roborock", "No incluye cepillos"],
+    "para": "usuarios de Roborock Q10 S5 que quieren mantener el filtro al día."
+  },
+  "B0CH32Z3VW": {
+    "resumen": ["Cuatro cepillos laterales compatibles con varios Xiaomi Mijia. El cepillo lateral es el que barre las esquinas y el que primero se deforma o pierde cerdas.", "Barato, fácil de cambiar y con mucho efecto en cómo limpia el robot los bordes."],
+    "pros": ["Muy barato", "Cambio en segundos", "Compatible con varios modelos Xiaomi"],
+    "contras": ["Solo cepillos laterales", "Revisa la compatibilidad exacta", "Cerdas menos duraderas que el original"],
+    "para": "mantener limpios los bordes con un Xiaomi Mijia."
+  },
+  "B0B4DZCZBT": {
+    "resumen": ["Un juego de fregona completo con cubo de 12 litros y escurridor de doble acción. El doble escurrido —uno para aclarar y otro para dejar la mopa casi seca— es lo que evita suelos encharcados.", "Mango de 120 cm, suficiente para no encorvarse a la mayoría de alturas."],
+    "pros": ["Escurridor de doble acción, mopa casi seca", "Cubo de 12 litros para toda la casa", "Mopa de microfibra"],
+    "contras": ["Cubo voluminoso para guardar", "Mango algo corto para personas muy altas", "Las mopas de recambio conviene comprarlas compatibles"],
+    "para": "fregado tradicional de toda la casa con menos esfuerzo."
+  },
+  "B01C32L8EY": {
+    "resumen": ["Un cubo de fregona de 10 litros pensado para espacios pequeños. No tiene mecanismos complicados: escurridor clásico y tamaño que cabe bajo el fregadero.", "Para un estudio o un piso pequeño, más cubo es solo más agua sucia que tirar."],
+    "pros": ["Compacto, cabe en armarios pequeños", "Precio muy bajo", "Sin piezas que se rompan"],
+    "contras": ["Escurrido manual, menos eficaz que los centrífugos", "Capacidad justa para casas grandes", "Sin fregona incluida"],
+    "para": "pisos pequeños y cocinas."
+  },
+  "B0FXTWCF7J": {
+    "resumen": ["Cubo con escurridor de mínimo esfuerzo y 14 litros de capacidad, con medidas indicadas (31,5 cm de alto por 29 de fondo). Es el cubo para quien friega mucho y no quiere forzar la muñeca.", "Antes de comprar, mide dónde lo vas a guardar."],
+    "pros": ["Gran capacidad", "Escurrido con poco esfuerzo", "Medidas claras en la ficha"],
+    "contras": ["Voluminoso", "Sin fregona incluida", "Más pesado lleno"],
+    "para": "casas grandes o fregados frecuentes."
+  },
+  "B0DKTM3WJJ": {
+    "resumen": ["El antical de Frosch con vinagre de frambuesa es uno de esos productos ecológicos que no obligan a elegir entre eficacia y medio ambiente: la base de vinagre disuelve la cal de grifos y mamparas, y huele mucho mejor que un antical clásico.", "No es un desinfectante: para eso, otro producto."],
+    "pros": ["Fórmula ecológica eficaz contra la cal", "Olor agradable, sin vapores agresivos", "Marca con certificaciones ambientales"],
+    "contras": ["No desinfecta", "Con cal muy incrustada necesita tiempo de actuación", "Evita usarlo sobre mármol o piedra natural (ácido)"],
+    "para": "baños con agua dura y quien prefiere productos ecológicos."
+  },
+  "B0C2R44QHG": {
+    "resumen": ["Sanytol Eco en formato recarga: el desinfectante multiusos de siempre sin lejía, con menos plástico. Rellenas el pulverizador que ya tienes.", "Es la manera más sencilla de reducir envases sin cambiar de producto."],
+    "pros": ["Desinfectante sin lejía", "Formato recarga, menos plástico", "Olor a eucalipto suave"],
+    "contras": ["Necesitas un pulverizador previo", "Precio por litro algo superior a genéricos", "No es antical"],
+    "para": "limpieza y desinfección diaria de superficies de cocina y baño."
+  },
+  "B07FPGLLTF": {
+    "resumen": ["Asevi es una marca española de productos de limpieza profesional, y este multiusos desinfectante viene listo para usar. Se nota su origen profesional: eficaz y sin perfumes exagerados.", "Buena alternativa a las marcas más publicitadas."],
+    "pros": ["Listo para usar", "Marca española de origen profesional", "Precio competitivo"],
+    "contras": ["Menos presencia en supermercados si quieres reponer rápido", "No es antical", "Lee las superficies compatibles"],
+    "para": "limpieza diaria con un producto profesional a precio doméstico."
+  },
+  "B07T8TR863": {
+    "resumen": ["Cien guantes de nitrilo desechables sin polvo y sin látex. El nitrilo aguanta mejor que el látex con productos de limpieza y evita alergias.", "Muy prácticos para tareas puntuales sucias: horno, basura, limpiar tras mascotas."],
+    "pros": ["Sin látex: aptos para alérgicos", "Nitrilo resistente a químicos habituales", "Caja de 100 a buen precio"],
+    "contras": ["Desechables: generan residuos", "Elige bien la talla, no hay mezcla en la caja", "No protegen del calor"],
+    "para": "tareas puntuales sucias o con químicos."
+  },
+  "B07F7SQMB2": {
+    "resumen": ["Los Spontex Milleusi son guantes reutilizables de uso general con tratamiento antibacteriano, el estándar en muchas casas. Buen equilibrio entre tacto y protección.", "Reutilizables, con lo que a medio plazo salen más baratos y generan menos residuo."],
+    "pros": ["Reutilizables", "Tratamiento antibacteriano", "Marca de referencia"],
+    "contras": ["Contienen látex (compruébalo si hay alergias)", "Menos tacto que los de nitrilo finos", "Se rompen con objetos cortantes"],
+    "para": "fregar y limpiar a diario."
+  },
+  "B08BCRXCX4": {
+    "resumen": ["Los Spontex Essential en talla S: la versión básica de los guantes reutilizables. Útiles sobre todo para manos pequeñas, que con tallas genéricas se quedan con dedos sobrantes.", "Sin extras, pero cumplen."],
+    "pros": ["Talla pequeña específica", "Precio muy bajo", "Reutilizables"],
+    "contras": ["Grosor básico", "Sin forro interior", "Duración menor que los de gama superior"],
+    "para": "personas con manos pequeñas."
+  },
+  "B0991X134Q": {
+    "resumen": ["Un colgador de pared de acero inoxidable para escobas y fregonas, con cuatro posiciones y cinco ganchos. Sacar las escobas del suelo es la forma más rápida de ordenar un cuarto de limpieza o una galería.", "Acero inoxidable: no se oxida aunque esté en una terraza."],
+    "pros": ["Acero inoxidable, apto para exterior cubierto", "Cuatro posiciones con pinza y cinco ganchos", "Ordena de inmediato"],
+    "contras": ["Requiere taladro en algunos casos (revisa el sistema de fijación)", "Algunos mangos muy finos resbalan en las pinzas", "Estética funcional"],
+    "para": "galerías, trasteros y cuartos de limpieza."
+  },
+  "B0H1V91C2Z": {
+    "resumen": ["Tres soportes adhesivos para escobas, sin taladrar. La solución para pisos de alquiler o azulejos que no quieres agujerear.", "El adhesivo necesita superficie limpia y lisa y algunas horas antes de cargar peso."],
+    "pros": ["Sin taladro: ideal para alquiler", "Pack de tres", "Instalación en minutos"],
+    "contras": ["No sirve en paredes rugosas o con gotelé", "Aguanta peso limitado", "El adhesivo puede fallar con humedad alta"],
+    "para": "pisos de alquiler y paredes lisas."
+  },
+  "B0DS4SDTZ7": {
+    "resumen": ["Organizador de acero inoxidable para el fregadero: bayetas, estropajo y lavavajillas en un sitio, con drenaje. Pequeño cambio que deja la encimera despejada.", "Mide el espacio entre el fregadero y la pared antes de pedirlo."],
+    "pros": ["Acero inoxidable", "Mantiene las bayetas secas", "Ordena la zona de fregado"],
+    "contras": ["Ocupa espacio en encimeras pequeñas", "Hay que limpiarlo a menudo para evitar cal", "Pocas opiniones"],
+    "para": "cocinas con encimera junto al fregadero."
+  },
+  "B0H98S1Z6P": {
+    "resumen": ["Un aspirador de mano de 26000 Pa pensado para el coche y el hogar. Es una cifra de succión alta para el formato, útil con arena y migas incrustadas en alfombrillas.", "El formato compacto implica depósito pequeño: vacíalo después de cada coche."],
+    "pros": ["Succión alta para un aspirador de mano", "Inalámbrico y compacto", "Sirve para coche y casa"],
+    "contras": ["Depósito pequeño", "Autonomía corta a máxima potencia", "Marca genérica"],
+    "para": "limpiar el coche y migas en casa."
+  },
+  "B0GK78L3KG": {
+    "resumen": ["Aspirador de mano con 22000 Pa, tres velocidades y batería de 6000 mAh. Las tres velocidades permiten ahorrar batería en superficies fáciles y reservar la máxima para alfombras.", "Buena alternativa si priorizas autonomía."],
+    "pros": ["Batería grande", "Tres niveles de potencia", "Precio de entrada"],
+    "contras": ["Marca poco conocida", "Filtro a limpiar a menudo", "Pocas opiniones"],
+    "para": "quien busca autonomía en un aspirador de mano."
+  },
+  "B0GTYN8LCW": {
+    "resumen": ["Aspiradora de mano lavable para tapicerías e interiores de coche. Que el depósito y el filtro se puedan lavar es un punto a favor en higiene y en coste a largo plazo.", "Ideal como aparato secundario."],
+    "pros": ["Depósito y filtro lavables", "Pensado para tapicerías", "Económico"],
+    "contras": ["Potencia menor que los modelos de 20000 Pa o más", "Ficha con pocos datos técnicos", "Autonomía por comprobar"],
+    "para": "tapicería del coche y sofás."
+  },
+  "B0GSQWSSTG": {
+    "resumen": ["Una lámpara matamoscas eléctrica con dos tubos UVA-LED de 6,5 W: atrae a los insectos voladores con la luz y los elimina en la rejilla. No es específica para mosquitas de la fruta, pero ayuda en cocinas con problemas persistentes.", "Mejor lejos de la zona donde se come y de la luz natural directa."],
+    "pros": ["Funciona sin químicos", "Cubre también mosquitos y moscas", "Uso continuo sin reponer cebos"],
+    "contras": ["Menos eficaz con mosquitas de la fruta que una trampa con cebo de vinagre", "Precio superior a las trampas", "Hay que limpiar la bandeja"],
+    "para": "cocinas y porches con muchos insectos voladores."
+  },
+  "B09V71GHV8": {
+    "resumen": ["Cuarenta trampas adhesivas amarillas. El amarillo atrae a mosquitas de la fruta y del mantillo de las plantas, y la cola las retiene.", "Barato, sin químicos y muy eficaz cerca de macetas y fruteros."],
+    "pros": ["Pack de 40 para meses", "Sin insecticidas", "Muy eficaces con mosquitas de plantas"],
+    "contras": ["Estética poco agradable", "Se ensucian con polvo y pierden efecto", "No elimina la fuente (fruta madura, tierra húmeda)"],
+    "para": "macetas de interior y fruteros."
+  },
+  "B0FL62NQ15": {
+    "resumen": ["Veintiséis trampas adhesivas de doble cara para plantas de interior y exterior. Doble cara significa el doble de superficie de captura por trampa.", "Complemento perfecto para dejar secar la tierra entre riegos, que es lo que realmente corta el ciclo de las mosquitas."],
+    "pros": ["Doble cara adhesiva", "Sirve en interior y exterior", "Económico"],
+    "contras": ["Menos unidades que otros packs", "Se pegan a hojas si se colocan mal", "No elimina larvas en la tierra"],
+    "para": "plantas con mosquitas del mantillo."
+  }
+}
