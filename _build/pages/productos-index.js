@@ -9,7 +9,8 @@ const SHORT_LABELS = {
   "limpiadores-multiusos-y-desinfectantes": "Limpiadores",
   "guantes-y-utensilios-de-limpieza": "Utensilios",
   "organizadores-de-productos-de-limpieza": "Organizadores",
-  "aspiradores-de-mano-y-para-coche": "Aspiradores de mano"
+  "aspiradores-de-mano-y-para-coche": "Aspiradores de mano",
+  "trampas-para-mosquitas-de-la-fruta": "Antimosquitas"
 };
 "use strict";
 
