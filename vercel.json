@@ -801,6 +801,11 @@
       "permanent": true
     },
     {
+      "source": "/productos/aerosani-tattoo-artist-aerosol-limpiador-y-desinfectante-estudios-de-tatuaje-limpiador-multiusos-desinfectante-especial-para-tatuadores-400-b0ccp48cf1.html",
+      "destination": "/guias/limpiadores-multiusos-y-desinfectantes.html",
+      "permanent": true
+    },
+    {
       "source": "/:section(guias|blog|comparativas|productos|legal|mejores)/:slug([^/.]+)",
       "destination": "/:section/:slug.html",
       "permanent": true
@@ -822,6 +827,18 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests"
         }
       ]
     },

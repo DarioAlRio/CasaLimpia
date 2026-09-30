@@ -149,6 +149,15 @@ const GUIDES = [
       },
     ],
     products: [
+      {
+        asin: "B0CN5JW3HQ",
+        title: "Dyson V8 Absolute Aspiradora Sin Cable, hasta 40 Min de Autonomía, 115 AW",
+        note: "El modelo con el que se comparan todas: ciclón probado y recambios fáciles de encontrar años después de comprarla.",
+        img: "https://m.media-amazon.com/images/I/61AWpWpuNlL._AC_UL320_.jpg",
+        price: "418,90",
+        rating: "4,3★",
+        reviews: 491,
+      },
       { asin: "B0HC6YKTCX", title: "AEG Ergorapido Plus Aspiradora Sin Cable Sin Bolsa CX7-3-45EB", note: "Marca consolidada en electrodomésticos, con depósito ciclónico y buen equilibrio de peso.", img: "https://m.media-amazon.com/images/I/61VVjFeIGkL._AC_UL320_.jpg", price: "179,00", rating: "4,2★" },
       { asin: "B09C6J3Z9F", title: "Rowenta X-Pert 6.60, Aspiradora Escoba Sin Cable, Lila", note: "Gama media de Rowenta con buena reputación de durabilidad y filtro lavable.", img: "https://m.media-amazon.com/images/I/51yNpqFq3+L._AC_UL320_.jpg", price: "119,99", rating: "4,2★" },
       { asin: "B0H957V6MQ", title: "Princess Aspiradora Sin Cable, 150 Air Watts, Autonomía: 50 Min", note: "Autonomía anunciada de 50 minutos con 150 Air Watts, opción sencilla de marca reconocida.", img: "https://m.media-amazon.com/images/I/712DHlzN-HL._AC_UL320_.jpg", price: "119,99", rating: "5,0★" },
